@@ -1,0 +1,1141 @@
+fixture_id,date,season,home_team,away_team,home_goals,away_goals,venue
+710556,2021-08-13T19:00:00+00:00,2021,Brentford,Arsenal,2,0,Brentford Community Stadium
+710561,2021-08-14T11:30:00+00:00,2021,Manchester United,Leeds,5,1,Old Trafford
+710565,2021-08-14T14:00:00+00:00,2021,Watford,Aston Villa,3,2,Vicarage Road
+710557,2021-08-14T14:00:00+00:00,2021,Burnley,Brighton,1,2,Turf Moor
+710559,2021-08-14T14:00:00+00:00,2021,Everton,Southampton,3,1,Goodison Park
+710560,2021-08-14T14:00:00+00:00,2021,Leicester,Wolves,1,0,King Power Stadium
+710558,2021-08-14T14:00:00+00:00,2021,Chelsea,Crystal Palace,3,0,Stamford Bridge
+710563,2021-08-14T16:30:00+00:00,2021,Norwich,Liverpool,0,3,Carrow Road
+710562,2021-08-15T13:00:00+00:00,2021,Newcastle,West Ham,2,4,St. James' Park
+710564,2021-08-15T15:30:00+00:00,2021,Tottenham,Manchester City,1,0,Tottenham Hotspur Stadium
+710571,2021-08-21T11:30:00+00:00,2021,Liverpool,Burnley,2,0,Anfield
+710572,2021-08-21T14:00:00+00:00,2021,Manchester City,Norwich,5,0,Etihad Stadium
+710569,2021-08-21T14:00:00+00:00,2021,Crystal Palace,Brentford,0,0,Selhurst Park
+710570,2021-08-21T14:00:00+00:00,2021,Leeds,Everton,2,2,Elland Road
+710567,2021-08-21T14:00:00+00:00,2021,Aston Villa,Newcastle,2,0,Villa Park
+710568,2021-08-21T16:30:00+00:00,2021,Brighton,Watford,2,0,The American Express Community Stadium
+710575,2021-08-22T13:00:00+00:00,2021,Wolves,Tottenham,0,1,Molineux Stadium
+710573,2021-08-22T13:00:00+00:00,2021,Southampton,Manchester United,1,1,St. Mary's Stadium
+710566,2021-08-22T15:30:00+00:00,2021,Arsenal,Chelsea,0,2,Emirates Stadium
+710574,2021-08-23T19:00:00+00:00,2021,West Ham,Leicester,4,1,London Stadium
+710580,2021-08-28T11:30:00+00:00,2021,Manchester City,Arsenal,5,0,Etihad Stadium
+710581,2021-08-28T14:00:00+00:00,2021,Newcastle,Southampton,2,2,St. James' Park
+710584,2021-08-28T14:00:00+00:00,2021,West Ham,Crystal Palace,2,2,London Stadium
+710577,2021-08-28T14:00:00+00:00,2021,Brighton,Everton,0,2,The American Express Community Stadium
+710576,2021-08-28T14:00:00+00:00,2021,Aston Villa,Brentford,1,1,Villa Park
+710582,2021-08-28T14:00:00+00:00,2021,Norwich,Leicester,1,2,Carrow Road
+710579,2021-08-28T16:30:00+00:00,2021,Liverpool,Chelsea,1,1,Anfield
+710578,2021-08-29T13:00:00+00:00,2021,Burnley,Leeds,1,1,Turf Moor
+710583,2021-08-29T13:00:00+00:00,2021,Tottenham,Watford,1,0,Tottenham Hotspur Stadium
+710585,2021-08-29T15:30:00+00:00,2021,Wolves,Manchester United,0,1,Molineux Stadium
+710589,2021-09-11T11:30:00+00:00,2021,Crystal Palace,Tottenham,3,0,Selhurst Park
+710593,2021-09-11T14:00:00+00:00,2021,Manchester United,Newcastle,4,1,Old Trafford
+710595,2021-09-11T14:00:00+00:00,2021,Watford,Wolves,0,2,Vicarage Road
+710594,2021-09-11T14:00:00+00:00,2021,Southampton,West Ham,0,0,St. Mary's Stadium
+710586,2021-09-11T14:00:00+00:00,2021,Arsenal,Norwich,1,0,Emirates Stadium
+710592,2021-09-11T14:00:00+00:00,2021,Leicester,Manchester City,0,1,King Power Stadium
+710587,2021-09-11T14:00:00+00:00,2021,Brentford,Brighton,0,1,Brentford Community Stadium
+710588,2021-09-11T16:30:00+00:00,2021,Chelsea,Aston Villa,3,0,Stamford Bridge
+710591,2021-09-12T15:30:00+00:00,2021,Leeds,Liverpool,0,3,Elland Road
+710590,2021-09-13T19:00:00+00:00,2021,Everton,Burnley,3,1,Goodison Park
+710601,2021-09-17T19:00:00+00:00,2021,Newcastle,Leeds,1,1,St. James' Park
+710605,2021-09-18T11:30:00+00:00,2021,Wolves,Brentford,0,2,Molineux Stadium
+710599,2021-09-18T14:00:00+00:00,2021,Liverpool,Crystal Palace,3,0,Anfield
+710598,2021-09-18T14:00:00+00:00,2021,Burnley,Arsenal,0,1,Turf Moor
+710600,2021-09-18T14:00:00+00:00,2021,Manchester City,Southampton,0,0,Etihad Stadium
+710602,2021-09-18T14:00:00+00:00,2021,Norwich,Watford,1,3,Carrow Road
+710596,2021-09-18T16:30:00+00:00,2021,Aston Villa,Everton,3,0,Villa Park
+710604,2021-09-19T13:00:00+00:00,2021,West Ham,Manchester United,1,2,London Stadium
+710597,2021-09-19T13:00:00+00:00,2021,Brighton,Leicester,2,1,The American Express Community Stadium
+710603,2021-09-19T15:30:00+00:00,2021,Tottenham,Chelsea,0,3,Tottenham Hotspur Stadium
+710613,2021-09-25T11:30:00+00:00,2021,Manchester United,Aston Villa,0,1,Old Trafford
+710608,2021-09-25T11:30:00+00:00,2021,Chelsea,Manchester City,0,1,Stamford Bridge
+710615,2021-09-25T14:00:00+00:00,2021,Watford,Newcastle,1,1,Vicarage Road
+710610,2021-09-25T14:00:00+00:00,2021,Everton,Norwich,2,0,Goodison Park
+710612,2021-09-25T14:00:00+00:00,2021,Leicester,Burnley,2,2,King Power Stadium
+710611,2021-09-25T14:00:00+00:00,2021,Leeds,West Ham,1,2,Elland Road
+710607,2021-09-25T16:30:00+00:00,2021,Brentford,Liverpool,3,3,Brentford Community Stadium
+710614,2021-09-26T13:00:00+00:00,2021,Southampton,Wolves,0,1,St. Mary's Stadium
+710606,2021-09-26T15:30:00+00:00,2021,Arsenal,Tottenham,3,1,Emirates Stadium
+710609,2021-09-27T19:00:00+00:00,2021,Crystal Palace,Brighton,1,1,Selhurst Park
+710622,2021-10-02T11:30:00+00:00,2021,Manchester United,Everton,1,1,Old Trafford
+710625,2021-10-02T14:00:00+00:00,2021,Wolves,Newcastle,2,1,Molineux Stadium
+710617,2021-10-02T14:00:00+00:00,2021,Burnley,Norwich,0,0,Turf Moor
+710618,2021-10-02T14:00:00+00:00,2021,Chelsea,Southampton,3,1,Stamford Bridge
+710620,2021-10-02T14:00:00+00:00,2021,Leeds,Watford,1,0,Elland Road
+710616,2021-10-02T16:30:00+00:00,2021,Brighton,Arsenal,0,0,The American Express Community Stadium
+710623,2021-10-03T13:00:00+00:00,2021,Tottenham,Aston Villa,2,1,Tottenham Hotspur Stadium
+710624,2021-10-03T13:00:00+00:00,2021,West Ham,Brentford,1,2,London Stadium
+710619,2021-10-03T13:00:00+00:00,2021,Crystal Palace,Leicester,2,2,Selhurst Park
+710621,2021-10-03T15:30:00+00:00,2021,Liverpool,Manchester City,2,2,Anfield
+710635,2021-10-16T11:30:00+00:00,2021,Watford,Liverpool,0,5,Vicarage Road
+710634,2021-10-16T14:00:00+00:00,2021,Southampton,Leeds,1,0,St. Mary's Stadium
+710630,2021-10-16T14:00:00+00:00,2021,Leicester,Manchester United,4,2,King Power Stadium
+710631,2021-10-16T14:00:00+00:00,2021,Manchester City,Burnley,2,0,Etihad Stadium
+710627,2021-10-16T14:00:00+00:00,2021,Aston Villa,Wolves,2,3,Villa Park
+710633,2021-10-16T14:00:00+00:00,2021,Norwich,Brighton,0,0,Carrow Road
+710628,2021-10-16T16:30:00+00:00,2021,Brentford,Chelsea,0,1,Brentford Community Stadium
+710629,2021-10-17T13:00:00+00:00,2021,Everton,West Ham,0,1,Goodison Park
+710632,2021-10-17T15:30:00+00:00,2021,Newcastle,Tottenham,2,3,St. James' Park
+710626,2021-10-18T19:00:00+00:00,2021,Arsenal,Crystal Palace,2,2,Emirates Stadium
+710636,2021-10-22T19:00:00+00:00,2021,Arsenal,Aston Villa,3,1,Emirates Stadium
+710639,2021-10-23T11:30:00+00:00,2021,Chelsea,Norwich,7,0,Stamford Bridge
+710644,2021-10-23T14:00:00+00:00,2021,Southampton,Burnley,2,2,St. Mary's Stadium
+710641,2021-10-23T14:00:00+00:00,2021,Everton,Watford,2,5,Goodison Park
+710640,2021-10-23T14:00:00+00:00,2021,Crystal Palace,Newcastle,1,1,Selhurst Park
+710642,2021-10-23T14:00:00+00:00,2021,Leeds,Wolves,1,1,Elland Road
+710638,2021-10-23T16:30:00+00:00,2021,Brighton,Manchester City,1,4,The American Express Community Stadium
+710645,2021-10-24T13:00:00+00:00,2021,West Ham,Tottenham,1,0,London Stadium
+710637,2021-10-24T13:00:00+00:00,2021,Brentford,Leicester,1,2,Brentford Community Stadium
+710643,2021-10-24T15:30:00+00:00,2021,Manchester United,Liverpool,0,5,Old Trafford
+710648,2021-10-30T11:30:00+00:00,2021,Leicester,Arsenal,0,2,King Power Stadium
+710651,2021-10-30T14:00:00+00:00,2021,Newcastle,Chelsea,0,3,St. James' Park
+710654,2021-10-30T14:00:00+00:00,2021,Watford,Southampton,0,1,Vicarage Road
+710649,2021-10-30T14:00:00+00:00,2021,Liverpool,Brighton,2,2,Anfield
+710647,2021-10-30T14:00:00+00:00,2021,Burnley,Brentford,3,1,Turf Moor
+710650,2021-10-30T14:00:00+00:00,2021,Manchester City,Crystal Palace,0,2,Etihad Stadium
+710653,2021-10-30T16:30:00+00:00,2021,Tottenham,Manchester United,0,3,Tottenham Hotspur Stadium
+710652,2021-10-31T14:00:00+00:00,2021,Norwich,Leeds,1,2,Carrow Road
+710646,2021-10-31T16:30:00+00:00,2021,Aston Villa,West Ham,1,4,Villa Park
+710655,2021-11-01T20:00:00+00:00,2021,Wolves,Everton,2,1,Molineux Stadium
+710664,2021-11-05T20:00:00+00:00,2021,Southampton,Aston Villa,1,0,St. Mary's Stadium
+710663,2021-11-06T12:30:00+00:00,2021,Manchester United,Manchester City,0,2,Old Trafford
+710659,2021-11-06T15:00:00+00:00,2021,Chelsea,Burnley,1,1,Stamford Bridge
+710660,2021-11-06T15:00:00+00:00,2021,Crystal Palace,Wolves,2,0,Selhurst Park
+710657,2021-11-06T15:00:00+00:00,2021,Brentford,Norwich,1,2,Brentford Community Stadium
+710658,2021-11-06T17:30:00+00:00,2021,Brighton,Newcastle,1,1,The American Express Community Stadium
+710656,2021-11-07T14:00:00+00:00,2021,Arsenal,Watford,1,0,Emirates Stadium
+710661,2021-11-07T14:00:00+00:00,2021,Everton,Tottenham,0,0,Goodison Park
+710662,2021-11-07T14:00:00+00:00,2021,Leeds,Leicester,1,1,Elland Road
+710665,2021-11-07T16:30:00+00:00,2021,West Ham,Liverpool,3,2,London Stadium
+710668,2021-11-20T12:30:00+00:00,2021,Leicester,Chelsea,0,3,King Power Stadium
+710671,2021-11-20T15:00:00+00:00,2021,Newcastle,Brentford,3,3,St. James' Park
+710674,2021-11-20T15:00:00+00:00,2021,Watford,Manchester United,4,1,Vicarage Road
+710675,2021-11-20T15:00:00+00:00,2021,Wolves,West Ham,1,0,Molineux Stadium
+710667,2021-11-20T15:00:00+00:00,2021,Burnley,Crystal Palace,3,3,Turf Moor
+710666,2021-11-20T15:00:00+00:00,2021,Aston Villa,Brighton,2,0,Villa Park
+710672,2021-11-20T15:00:00+00:00,2021,Norwich,Southampton,2,1,Carrow Road
+710669,2021-11-20T17:30:00+00:00,2021,Liverpool,Arsenal,4,0,Anfield
+710670,2021-11-21T14:00:00+00:00,2021,Manchester City,Everton,3,0,Etihad Stadium
+710673,2021-11-21T16:30:00+00:00,2021,Tottenham,Leeds,2,1,Tottenham Hotspur Stadium
+710676,2021-11-27T12:30:00+00:00,2021,Arsenal,Newcastle,2,0,Emirates Stadium
+710683,2021-11-27T15:00:00+00:00,2021,Liverpool,Southampton,4,0,Anfield
+710681,2021-11-27T15:00:00+00:00,2021,Crystal Palace,Aston Villa,1,2,Selhurst Park
+710685,2021-11-27T15:00:00+00:00,2021,Norwich,Wolves,0,0,Carrow Road
+710678,2021-11-27T17:30:00+00:00,2021,Brighton,Leeds,0,0,The American Express Community Stadium
+710682,2021-11-28T14:00:00+00:00,2021,Leicester,Watford,4,2,King Power Stadium
+710684,2021-11-28T14:00:00+00:00,2021,Manchester City,West Ham,2,1,Etihad Stadium
+710677,2021-11-28T14:00:00+00:00,2021,Brentford,Everton,1,0,Brentford Community Stadium
+710680,2021-11-28T16:30:00+00:00,2021,Chelsea,Manchester United,1,1,Stamford Bridge
+710693,2021-11-30T19:30:00+00:00,2021,Newcastle,Norwich,1,1,St. James' Park
+710688,2021-11-30T20:15:00+00:00,2021,Leeds,Crystal Palace,1,0,Elland Road
+710689,2021-12-01T19:30:00+00:00,2021,Watford,Chelsea,1,2,Vicarage Road
+710691,2021-12-01T19:30:00+00:00,2021,Wolves,Burnley,0,0,Molineux Stadium
+710694,2021-12-01T19:30:00+00:00,2021,Southampton,Leicester,2,2,St. Mary's Stadium
+710690,2021-12-01T19:30:00+00:00,2021,West Ham,Brighton,1,1,London Stadium
+710687,2021-12-01T20:15:00+00:00,2021,Everton,Liverpool,1,4,Goodison Park
+710686,2021-12-01T20:15:00+00:00,2021,Aston Villa,Manchester City,1,2,Villa Park
+710695,2021-12-02T19:30:00+00:00,2021,Tottenham,Brentford,2,0,Tottenham Hotspur Stadium
+710692,2021-12-02T20:15:00+00:00,2021,Manchester United,Arsenal,3,2,Old Trafford
+710704,2021-12-04T12:30:00+00:00,2021,West Ham,Chelsea,3,2,London Stadium
+710700,2021-12-04T15:00:00+00:00,2021,Newcastle,Burnley,1,0,St. James' Park
+710705,2021-12-04T15:00:00+00:00,2021,Wolves,Liverpool,0,1,Molineux Stadium
+710701,2021-12-04T15:00:00+00:00,2021,Southampton,Brighton,1,1,St. Mary's Stadium
+710703,2021-12-04T17:30:00+00:00,2021,Watford,Manchester City,1,3,Vicarage Road
+710699,2021-12-05T14:00:00+00:00,2021,Manchester United,Crystal Palace,1,0,Old Trafford
+710702,2021-12-05T14:00:00+00:00,2021,Tottenham,Norwich,3,0,Tottenham Hotspur Stadium
+710698,2021-12-05T14:00:00+00:00,2021,Leeds,Brentford,2,2,Elland Road
+710696,2021-12-05T16:30:00+00:00,2021,Aston Villa,Leicester,2,1,Villa Park
+710697,2021-12-06T20:00:00+00:00,2021,Everton,Arsenal,2,1,Goodison Park
+710707,2021-12-10T20:00:00+00:00,2021,Brentford,Watford,2,1,Brentford Community Stadium
+710714,2021-12-11T12:30:00+00:00,2021,Manchester City,Wolves,1,0,Etihad Stadium
+710713,2021-12-11T15:00:00+00:00,2021,Liverpool,Aston Villa,1,0,Anfield
+710706,2021-12-11T15:00:00+00:00,2021,Arsenal,Southampton,3,0,Emirates Stadium
+710710,2021-12-11T15:00:00+00:00,2021,Chelsea,Leeds,3,2,Stamford Bridge
+710715,2021-12-11T17:30:00+00:00,2021,Norwich,Manchester United,0,1,Carrow Road
+710709,2021-12-12T14:00:00+00:00,2021,Burnley,West Ham,0,0,Turf Moor
+710712,2021-12-12T14:00:00+00:00,2021,Leicester,Newcastle,4,0,King Power Stadium
+710711,2021-12-12T16:30:00+00:00,2021,Crystal Palace,Everton,3,1,Selhurst Park
+710721,2021-12-14T19:45:00+00:00,2021,Norwich,Aston Villa,0,2,Carrow Road
+710725,2021-12-14T20:00:00+00:00,2021,Manchester City,Leeds,7,0,Etihad Stadium
+710718,2021-12-15T19:30:00+00:00,2021,Brighton,Wolves,0,1,The American Express Community Stadium
+710722,2021-12-15T19:30:00+00:00,2021,Crystal Palace,Southampton,2,2,Selhurst Park
+710716,2021-12-15T20:00:00+00:00,2021,Arsenal,West Ham,2,0,Emirates Stadium
+710723,2021-12-16T19:45:00+00:00,2021,Chelsea,Everton,1,1,Stamford Bridge
+710724,2021-12-16T20:00:00+00:00,2021,Liverpool,Newcastle,3,1,Anfield
+710728,2021-12-18T17:30:00+00:00,2021,Leeds,Arsenal,1,4,Elland Road
+710730,2021-12-19T14:00:00+00:00,2021,Newcastle,Manchester City,0,4,St. James' Park
+710735,2021-12-19T14:00:00+00:00,2021,Wolves,Chelsea,0,0,Molineux Stadium
+710732,2021-12-19T16:30:00+00:00,2021,Tottenham,Liverpool,2,2,Tottenham Hotspur Stadium
+710743,2021-12-26T15:00:00+00:00,2021,Tottenham,Crystal Palace,3,0,Tottenham Hotspur Stadium
+710744,2021-12-26T15:00:00+00:00,2021,West Ham,Southampton,2,3,London Stadium
+710740,2021-12-26T15:00:00+00:00,2021,Manchester City,Leicester,6,3,Etihad Stadium
+710742,2021-12-26T15:00:00+00:00,2021,Norwich,Arsenal,0,5,Carrow Road
+710736,2021-12-26T17:30:00+00:00,2021,Aston Villa,Chelsea,1,3,Villa Park
+710737,2021-12-26T20:00:00+00:00,2021,Brighton,Brentford,2,0,The American Express Community Stadium
+710741,2021-12-27T20:00:00+00:00,2021,Newcastle,Manchester United,1,1,St. James' Park
+710755,2021-12-28T15:00:00+00:00,2021,Watford,West Ham,1,4,Vicarage Road
+710754,2021-12-28T15:00:00+00:00,2021,Southampton,Tottenham,1,1,St. Mary's Stadium
+710749,2021-12-28T15:00:00+00:00,2021,Crystal Palace,Norwich,3,0,Selhurst Park
+710752,2021-12-28T20:00:00+00:00,2021,Leicester,Liverpool,1,0,King Power Stadium
+710748,2021-12-29T19:30:00+00:00,2021,Chelsea,Brighton,1,1,Stamford Bridge
+710747,2021-12-29T20:15:00+00:00,2021,Brentford,Manchester City,0,1,Brentford Community Stadium
+710753,2021-12-30T20:15:00+00:00,2021,Manchester United,Burnley,3,1,Old Trafford
+710756,2022-01-01T12:30:00+00:00,2021,Arsenal,Manchester City,1,2,Emirates Stadium
+710765,2022-01-01T15:00:00+00:00,2021,Watford,Tottenham,0,1,Vicarage Road
+710759,2022-01-01T17:30:00+00:00,2021,Crystal Palace,West Ham,2,3,Selhurst Park
+710760,2022-01-02T14:00:00+00:00,2021,Everton,Brighton,2,3,Goodison Park
+710757,2022-01-02T14:00:00+00:00,2021,Brentford,Aston Villa,2,1,Brentford Community Stadium
+710761,2022-01-02T14:00:00+00:00,2021,Leeds,Burnley,3,1,Elland Road
+710758,2022-01-02T16:30:00+00:00,2021,Chelsea,Liverpool,2,2,Stamford Bridge
+710763,2022-01-03T17:30:00+00:00,2021,Manchester United,Wolves,0,1,Old Trafford
+710731,2022-01-11T19:45:00+00:00,2021,Southampton,Brentford,4,1,St. Mary's Stadium
+710734,2022-01-12T19:45:00+00:00,2021,West Ham,Norwich,2,0,London Stadium
+710767,2022-01-14T20:00:00+00:00,2021,Brighton,Crystal Palace,1,1,The American Express Community Stadium
+710770,2022-01-15T12:30:00+00:00,2021,Manchester City,Chelsea,1,0,Etihad Stadium
+710771,2022-01-15T15:00:00+00:00,2021,Newcastle,Watford,1,1,St. James' Park
+710775,2022-01-15T15:00:00+00:00,2021,Wolves,Southampton,3,1,Molineux Stadium
+710772,2022-01-15T15:00:00+00:00,2021,Norwich,Everton,2,1,Carrow Road
+710766,2022-01-15T17:30:00+00:00,2021,Aston Villa,Manchester United,2,2,Villa Park
+710769,2022-01-16T14:00:00+00:00,2021,Liverpool,Brentford,3,0,Anfield
+710774,2022-01-16T14:00:00+00:00,2021,West Ham,Leeds,2,3,London Stadium
+710787,2022-01-18T20:00:00+00:00,2021,Brighton,Chelsea,1,1,The American Express Community Stadium
+710720,2022-01-19T19:30:00+00:00,2021,Leicester,Tottenham,2,3,King Power Stadium
+710717,2022-01-19T20:00:00+00:00,2021,Brentford,Manchester United,1,3,Brentford Community Stadium
+710785,2022-01-21T20:00:00+00:00,2021,Watford,Norwich,0,3,Vicarage Road
+710780,2022-01-22T12:30:00+00:00,2021,Everton,Aston Villa,0,1,Goodison Park
+710783,2022-01-22T15:00:00+00:00,2021,Manchester United,West Ham,1,0,Old Trafford
+710777,2022-01-22T15:00:00+00:00,2021,Brentford,Wolves,1,2,Brentford Community Stadium
+710781,2022-01-22T15:00:00+00:00,2021,Leeds,Newcastle,0,1,Elland Road
+710784,2022-01-22T17:30:00+00:00,2021,Southampton,Manchester City,1,1,St. Mary's Stadium
+710776,2022-01-23T14:00:00+00:00,2021,Arsenal,Burnley,0,0,Emirates Stadium
+710782,2022-01-23T14:00:00+00:00,2021,Leicester,Brighton,1,1,King Power Stadium
+710779,2022-01-23T14:00:00+00:00,2021,Crystal Palace,Liverpool,1,3,Selhurst Park
+710778,2022-01-23T16:30:00+00:00,2021,Chelsea,Tottenham,2,0,Stamford Bridge
+710719,2022-02-05T18:00:00+00:00,2021,Burnley,Watford,0,0,Turf Moor
+710792,2022-02-08T19:45:00+00:00,2021,Newcastle,Everton,3,1,St. James' Park
+710790,2022-02-08T19:45:00+00:00,2021,West Ham,Watford,1,0,London Stadium
+710788,2022-02-08T20:00:00+00:00,2021,Burnley,Manchester United,1,1,Turf Moor
+710793,2022-02-09T19:45:00+00:00,2021,Tottenham,Southampton,2,3,Tottenham Hotspur Stadium
+710795,2022-02-09T19:45:00+00:00,2021,Manchester City,Brentford,2,0,Etihad Stadium
+710789,2022-02-09T19:45:00+00:00,2021,Norwich,Crystal Palace,1,1,Carrow Road
+710786,2022-02-09T20:00:00+00:00,2021,Aston Villa,Leeds,3,3,Villa Park
+710791,2022-02-10T19:45:00+00:00,2021,Wolves,Arsenal,0,1,Molineux Stadium
+710794,2022-02-10T19:45:00+00:00,2021,Liverpool,Leicester,2,0,Anfield
+710801,2022-02-12T12:30:00+00:00,2021,Manchester United,Southampton,1,1,Old Trafford
+710805,2022-02-12T15:00:00+00:00,2021,Watford,Brighton,0,2,Vicarage Road
+710799,2022-02-12T15:00:00+00:00,2021,Everton,Leeds,3,0,Goodison Park
+710796,2022-02-12T15:00:00+00:00,2021,Brentford,Crystal Palace,0,0,Brentford Community Stadium
+710803,2022-02-12T17:30:00+00:00,2021,Norwich,Manchester City,0,4,Carrow Road
+710802,2022-02-13T14:00:00+00:00,2021,Newcastle,Aston Villa,1,0,St. James' Park
+710797,2022-02-13T14:00:00+00:00,2021,Burnley,Liverpool,0,1,Turf Moor
+710804,2022-02-13T14:00:00+00:00,2021,Tottenham,Wolves,0,2,Tottenham Hotspur Stadium
+710800,2022-02-13T16:30:00+00:00,2021,Leicester,West Ham,2,2,King Power Stadium
+710729,2022-02-15T20:15:00+00:00,2021,Manchester United,Brighton,2,0,Old Trafford
+710814,2022-02-19T12:30:00+00:00,2021,West Ham,Newcastle,1,1,London Stadium
+710811,2022-02-19T15:00:00+00:00,2021,Liverpool,Norwich,3,1,Anfield
+710813,2022-02-19T15:00:00+00:00,2021,Southampton,Everton,2,0,St. Mary's Stadium
+710806,2022-02-19T15:00:00+00:00,2021,Arsenal,Brentford,2,1,Emirates Stadium
+710808,2022-02-19T15:00:00+00:00,2021,Brighton,Burnley,0,3,The American Express Community Stadium
+710809,2022-02-19T15:00:00+00:00,2021,Crystal Palace,Chelsea,0,1,Selhurst Park
+710807,2022-02-19T15:00:00+00:00,2021,Aston Villa,Watford,0,1,Villa Park
+710812,2022-02-19T17:30:00+00:00,2021,Manchester City,Tottenham,2,3,Etihad Stadium
+710810,2022-02-20T14:00:00+00:00,2021,Leeds,Manchester United,2,4,Elland Road
+710815,2022-02-20T16:30:00+00:00,2021,Wolves,Leicester,2,1,Molineux Stadium
+710733,2022-02-23T19:30:00+00:00,2021,Watford,Crystal Palace,1,4,Vicarage Road
+710679,2022-02-23T19:30:00+00:00,2021,Burnley,Tottenham,1,0,Turf Moor
+710739,2022-02-23T19:45:00+00:00,2021,Liverpool,Leeds,6,0,Anfield
+710746,2022-02-24T19:45:00+00:00,2021,Arsenal,Wolves,2,1,Emirates Stadium
+710824,2022-02-25T20:00:00+00:00,2021,Southampton,Norwich,2,0,St. Mary's Stadium
+710822,2022-02-26T12:30:00+00:00,2021,Leeds,Tottenham,0,4,Elland Road
+710823,2022-02-26T15:00:00+00:00,2021,Manchester United,Watford,0,0,Old Trafford
+710820,2022-02-26T15:00:00+00:00,2021,Crystal Palace,Burnley,1,1,Selhurst Park
+710817,2022-02-26T15:00:00+00:00,2021,Brentford,Newcastle,0,2,Brentford Community Stadium
+710818,2022-02-26T15:30:00+00:00,2021,Brighton,Aston Villa,0,2,The American Express Community Stadium
+710821,2022-02-26T17:30:00+00:00,2021,Everton,Manchester City,0,1,Goodison Park
+710825,2022-02-27T14:00:00+00:00,2021,West Ham,Wolves,1,0,London Stadium
+710768,2022-03-01T19:45:00+00:00,2021,Burnley,Leicester,0,2,Turf Moor
+710828,2022-03-05T12:30:00+00:00,2021,Leicester,Leeds,1,0,King Power Stadium
+710831,2022-03-05T15:00:00+00:00,2021,Newcastle,Brighton,2,1,St. James' Park
+710835,2022-03-05T15:00:00+00:00,2021,Wolves,Crystal Palace,0,2,Molineux Stadium
+710827,2022-03-05T15:00:00+00:00,2021,Burnley,Chelsea,0,4,Turf Moor
+710826,2022-03-05T15:00:00+00:00,2021,Aston Villa,Southampton,4,0,Villa Park
+710832,2022-03-05T15:00:00+00:00,2021,Norwich,Brentford,1,3,Carrow Road
+710829,2022-03-05T17:30:00+00:00,2021,Liverpool,West Ham,1,0,Anfield
+710834,2022-03-06T14:00:00+00:00,2021,Watford,Arsenal,2,3,Vicarage Road
+710830,2022-03-06T16:30:00+00:00,2021,Manchester City,Manchester United,4,1,Etihad Stadium
+710833,2022-03-07T20:00:00+00:00,2021,Tottenham,Everton,5,0,Tottenham Hotspur Stadium
+710745,2022-03-10T19:30:00+00:00,2021,Wolves,Watford,4,0,Molineux Stadium
+710764,2022-03-10T19:30:00+00:00,2021,Southampton,Newcastle,1,2,St. Mary's Stadium
+710852,2022-03-10T19:30:00+00:00,2021,Norwich,Chelsea,1,3,Carrow Road
+710751,2022-03-10T19:45:00+00:00,2021,Leeds,Aston Villa,0,3,Elland Road
+710838,2022-03-12T12:30:00+00:00,2021,Brighton,Liverpool,0,2,The American Express Community Stadium
+710837,2022-03-12T15:00:00+00:00,2021,Brentford,Burnley,2,0,Brentford Community Stadium
+710843,2022-03-12T17:30:00+00:00,2021,Manchester United,Tottenham,3,2,Old Trafford
+710844,2022-03-13T14:00:00+00:00,2021,Southampton,Watford,1,2,St. Mary's Stadium
+710841,2022-03-13T14:00:00+00:00,2021,Everton,Wolves,0,1,Goodison Park
+710845,2022-03-13T14:00:00+00:00,2021,West Ham,Aston Villa,2,1,London Stadium
+710839,2022-03-13T14:00:00+00:00,2021,Chelsea,Newcastle,1,0,Stamford Bridge
+710842,2022-03-13T14:00:00+00:00,2021,Leeds,Norwich,2,1,Elland Road
+710836,2022-03-13T16:30:00+00:00,2021,Arsenal,Leicester,2,0,Emirates Stadium
+710840,2022-03-14T20:00:00+00:00,2021,Crystal Palace,Manchester City,0,0,Selhurst Park
+710708,2022-03-16T19:30:00+00:00,2021,Brighton,Tottenham,0,2,The American Express Community Stadium
+710816,2022-03-16T20:15:00+00:00,2021,Arsenal,Liverpool,0,2,Emirates Stadium
+710750,2022-03-17T19:45:00+00:00,2021,Everton,Newcastle,1,0,Goodison Park
+710855,2022-03-18T20:00:00+00:00,2021,Wolves,Leeds,2,3,Molineux Stadium
+710846,2022-03-19T12:30:00+00:00,2021,Aston Villa,Arsenal,0,1,Villa Park
+710848,2022-03-20T14:00:00+00:00,2021,Leicester,Brentford,2,1,King Power Stadium
+710853,2022-03-20T16:30:00+00:00,2021,Tottenham,West Ham,3,1,Tottenham Hotspur Stadium
+710861,2022-04-02T11:30:00+00:00,2021,Liverpool,Watford,2,0,Anfield
+710865,2022-04-02T14:00:00+00:00,2021,Wolves,Aston Villa,2,1,Molineux Stadium
+710857,2022-04-02T14:00:00+00:00,2021,Burnley,Manchester City,0,2,Turf Moor
+710858,2022-04-02T14:00:00+00:00,2021,Chelsea,Brentford,1,4,Stamford Bridge
+710856,2022-04-02T14:00:00+00:00,2021,Brighton,Norwich,0,0,The American Express Community Stadium
+710860,2022-04-02T14:00:00+00:00,2021,Leeds,Southampton,1,1,Elland Road
+710862,2022-04-02T16:30:00+00:00,2021,Manchester United,Leicester,1,1,Old Trafford
+710864,2022-04-03T13:00:00+00:00,2021,West Ham,Everton,2,1,London Stadium
+710863,2022-04-03T15:30:00+00:00,2021,Tottenham,Newcastle,5,1,Tottenham Hotspur Stadium
+710859,2022-04-04T19:00:00+00:00,2021,Crystal Palace,Arsenal,3,0,Selhurst Park
+710738,2022-04-06T18:30:00+00:00,2021,Burnley,Everton,3,2,Turf Moor
+710872,2022-04-08T19:00:00+00:00,2021,Newcastle,Wolves,1,0,St. James' Park
+710869,2022-04-09T11:30:00+00:00,2021,Everton,Manchester United,1,0,Goodison Park
+710875,2022-04-09T14:00:00+00:00,2021,Watford,Leeds,0,3,Vicarage Road
+710874,2022-04-09T14:00:00+00:00,2021,Southampton,Chelsea,0,6,St. Mary's Stadium
+710866,2022-04-09T14:00:00+00:00,2021,Arsenal,Brighton,1,2,Emirates Stadium
+710867,2022-04-09T16:30:00+00:00,2021,Aston Villa,Tottenham,0,4,Villa Park
+710870,2022-04-10T13:00:00+00:00,2021,Leicester,Crystal Palace,2,1,King Power Stadium
+710868,2022-04-10T13:00:00+00:00,2021,Brentford,West Ham,2,0,Brentford Community Stadium
+710873,2022-04-10T13:00:00+00:00,2021,Norwich,Burnley,2,0,Carrow Road
+710871,2022-04-10T15:30:00+00:00,2021,Manchester City,Liverpool,2,2,Etihad Stadium
+710882,2022-04-16T11:30:00+00:00,2021,Tottenham,Brighton,0,1,Tottenham Hotspur Stadium
+710879,2022-04-16T14:00:00+00:00,2021,Manchester United,Norwich,3,2,Old Trafford
+710883,2022-04-16T14:00:00+00:00,2021,Watford,Brentford,1,2,Vicarage Road
+710881,2022-04-16T14:00:00+00:00,2021,Southampton,Arsenal,1,0,St. Mary's Stadium
+710880,2022-04-17T13:15:00+00:00,2021,Newcastle,Leicester,2,1,St. James' Park
+710884,2022-04-17T13:15:00+00:00,2021,West Ham,Burnley,1,1,London Stadium
+710849,2022-04-19T19:00:00+00:00,2021,Liverpool,Manchester United,4,0,Anfield
+710851,2022-04-20T18:45:00+00:00,2021,Newcastle,Crystal Palace,1,0,St. James' Park
+710727,2022-04-20T18:45:00+00:00,2021,Everton,Leicester,1,1,Goodison Park
+710798,2022-04-20T18:45:00+00:00,2021,Chelsea,Arsenal,2,4,Stamford Bridge
+710850,2022-04-20T19:00:00+00:00,2021,Manchester City,Brighton,3,0,Etihad Stadium
+710847,2022-04-21T18:45:00+00:00,2021,Burnley,Southampton,2,0,Turf Moor
+710886,2022-04-23T11:30:00+00:00,2021,Arsenal,Manchester United,3,1,Emirates Stadium
+710892,2022-04-23T14:00:00+00:00,2021,Leicester,Aston Villa,0,0,King Power Stadium
+710894,2022-04-23T14:00:00+00:00,2021,Manchester City,Watford,5,1,Etihad Stadium
+710895,2022-04-23T14:00:00+00:00,2021,Norwich,Newcastle,0,3,Carrow Road
+710887,2022-04-23T16:30:00+00:00,2021,Brentford,Tottenham,0,0,Brentford Community Stadium
+710889,2022-04-24T13:00:00+00:00,2021,Burnley,Wolves,1,0,Turf Moor
+710890,2022-04-24T13:00:00+00:00,2021,Chelsea,West Ham,1,0,Stamford Bridge
+710888,2022-04-24T13:00:00+00:00,2021,Brighton,Southampton,2,2,The American Express Community Stadium
+710893,2022-04-24T15:30:00+00:00,2021,Liverpool,Everton,2,0,Anfield
+710891,2022-04-25T19:00:00+00:00,2021,Crystal Palace,Leeds,0,0,Selhurst Park
+710919,2022-04-28T18:45:00+00:00,2021,Manchester United,Chelsea,1,1,Old Trafford
+710900,2022-04-30T11:30:00+00:00,2021,Newcastle,Liverpool,0,1,St. James' Park
+710903,2022-04-30T14:00:00+00:00,2021,Watford,Burnley,1,2,Vicarage Road
+710905,2022-04-30T14:00:00+00:00,2021,Wolves,Brighton,0,3,Molineux Stadium
+710901,2022-04-30T14:00:00+00:00,2021,Southampton,Crystal Palace,1,2,St. Mary's Stadium
+710896,2022-04-30T14:00:00+00:00,2021,Aston Villa,Norwich,2,0,Villa Park
+710898,2022-04-30T16:30:00+00:00,2021,Leeds,Manchester City,0,4,Elland Road
+710897,2022-05-01T13:00:00+00:00,2021,Everton,Chelsea,1,0,Goodison Park
+710902,2022-05-01T13:00:00+00:00,2021,Tottenham,Leicester,3,1,Tottenham Hotspur Stadium
+710904,2022-05-01T15:30:00+00:00,2021,West Ham,Arsenal,1,2,London Stadium
+710899,2022-05-02T19:00:00+00:00,2021,Manchester United,Brentford,3,0,Old Trafford
+710909,2022-05-07T14:00:00+00:00,2021,Burnley,Aston Villa,1,3,Turf Moor
+710910,2022-05-07T14:00:00+00:00,2021,Chelsea,Wolves,2,2,Stamford Bridge
+710911,2022-05-07T14:00:00+00:00,2021,Crystal Palace,Watford,1,0,Selhurst Park
+710907,2022-05-07T14:00:00+00:00,2021,Brentford,Southampton,3,0,Brentford Community Stadium
+710908,2022-05-07T16:30:00+00:00,2021,Brighton,Manchester United,4,0,The American Express Community Stadium
+710913,2022-05-07T18:45:00+00:00,2021,Liverpool,Tottenham,1,1,Anfield
+710906,2022-05-08T13:00:00+00:00,2021,Arsenal,Leeds,2,1,Emirates Stadium
+710912,2022-05-08T13:00:00+00:00,2021,Leicester,Everton,1,2,King Power Stadium
+710915,2022-05-08T13:00:00+00:00,2021,Norwich,West Ham,0,4,Carrow Road
+710914,2022-05-08T15:30:00+00:00,2021,Manchester City,Newcastle,5,0,Etihad Stadium
+710876,2022-05-10T19:00:00+00:00,2021,Aston Villa,Liverpool,1,2,Villa Park
+710878,2022-05-11T18:30:00+00:00,2021,Leeds,Chelsea,0,3,Elland Road
+710854,2022-05-11T18:45:00+00:00,2021,Watford,Everton,0,0,Vicarage Road
+710762,2022-05-11T18:45:00+00:00,2021,Leicester,Norwich,3,0,King Power Stadium
+710885,2022-05-11T19:15:00+00:00,2021,Wolves,Manchester City,1,5,Molineux Stadium
+710773,2022-05-12T18:45:00+00:00,2021,Tottenham,Arsenal,3,0,Tottenham Hotspur Stadium
+710922,2022-05-15T11:00:00+00:00,2021,Tottenham,Burnley,1,0,Tottenham Hotspur Stadium
+710923,2022-05-15T13:00:00+00:00,2021,Watford,Leicester,1,5,Vicarage Road
+710925,2022-05-15T13:00:00+00:00,2021,Wolves,Norwich,1,1,Molineux Stadium
+710924,2022-05-15T13:00:00+00:00,2021,West Ham,Manchester City,2,2,London Stadium
+710918,2022-05-15T13:00:00+00:00,2021,Leeds,Brighton,1,1,Elland Road
+710916,2022-05-15T13:00:00+00:00,2021,Aston Villa,Crystal Palace,1,1,Villa Park
+710917,2022-05-15T15:30:00+00:00,2021,Everton,Brentford,2,3,Goodison Park
+710920,2022-05-16T19:00:00+00:00,2021,Newcastle,Arsenal,2,0,St. James' Park
+710921,2022-05-17T18:45:00+00:00,2021,Southampton,Liverpool,1,2,St. Mary's Stadium
+710877,2022-05-19T18:45:00+00:00,2021,Everton,Crystal Palace,3,2,Goodison Park
+710819,2022-05-19T19:00:00+00:00,2021,Chelsea,Leicester,1,1,Stamford Bridge
+710726,2022-05-19T19:00:00+00:00,2021,Aston Villa,Burnley,1,1,Villa Park
+710933,2022-05-22T15:00:00+00:00,2021,Liverpool,Wolves,3,1,Anfield
+710926,2022-05-22T15:00:00+00:00,2021,Arsenal,Everton,5,1,Emirates Stadium
+710929,2022-05-22T15:00:00+00:00,2021,Burnley,Newcastle,1,2,Turf Moor
+710932,2022-05-22T15:00:00+00:00,2021,Leicester,Southampton,4,1,King Power Stadium
+710930,2022-05-22T15:00:00+00:00,2021,Chelsea,Watford,2,1,Stamford Bridge
+710934,2022-05-22T15:00:00+00:00,2021,Manchester City,Aston Villa,3,2,Etihad Stadium
+710928,2022-05-22T15:00:00+00:00,2021,Brighton,West Ham,3,1,The American Express Community Stadium
+710931,2022-05-22T15:00:00+00:00,2021,Crystal Palace,Manchester United,1,0,Selhurst Park
+710927,2022-05-22T15:00:00+00:00,2021,Brentford,Leeds,1,2,Brentford Community Stadium
+710935,2022-05-22T15:00:00+00:00,2021,Norwich,Tottenham,0,5,Carrow Road
+867946,2022-08-05T19:00:00+00:00,2022,Crystal Palace,Arsenal,0,2,Selhurst Park
+867947,2022-08-06T11:30:00+00:00,2022,Fulham,Liverpool,2,2,Craven Cottage
+867951,2022-08-06T14:00:00+00:00,2022,Newcastle,Nottingham Forest,2,0,St. James' Park
+867948,2022-08-06T14:00:00+00:00,2022,Bournemouth,Aston Villa,2,0,Vitality Stadium
+867952,2022-08-06T14:00:00+00:00,2022,Tottenham,Southampton,4,1,Tottenham Hotspur Stadium
+867949,2022-08-06T14:00:00+00:00,2022,Leeds,Wolves,2,1,Elland Road
+867953,2022-08-06T16:30:00+00:00,2022,Everton,Chelsea,0,1,Goodison Park
+867954,2022-08-07T13:00:00+00:00,2022,Manchester United,Brighton,1,2,Old Trafford
+867950,2022-08-07T13:00:00+00:00,2022,Leicester,Brentford,2,2,King Power Stadium
+867955,2022-08-07T15:30:00+00:00,2022,West Ham,Manchester City,0,2,London Stadium
+867957,2022-08-13T11:30:00+00:00,2022,Aston Villa,Everton,2,1,Villa Park
+867965,2022-08-13T14:00:00+00:00,2022,Wolves,Fulham,0,0,Molineux Stadium
+867964,2022-08-13T14:00:00+00:00,2022,Southampton,Leeds,2,2,St. Mary's Stadium
+867956,2022-08-13T14:00:00+00:00,2022,Arsenal,Leicester,4,2,Emirates Stadium
+867962,2022-08-13T14:00:00+00:00,2022,Manchester City,Bournemouth,4,0,Etihad Stadium
+867959,2022-08-13T14:00:00+00:00,2022,Brighton,Newcastle,0,0,The American Express Community Stadium
+867958,2022-08-13T16:30:00+00:00,2022,Brentford,Manchester United,4,0,Gtech Community Stadium
+867963,2022-08-14T13:00:00+00:00,2022,Nottingham Forest,West Ham,1,0,The City Ground
+867960,2022-08-14T15:30:00+00:00,2022,Chelsea,Tottenham,2,2,Stamford Bridge
+867961,2022-08-15T19:00:00+00:00,2022,Liverpool,Crystal Palace,1,1,Anfield
+867974,2022-08-20T11:30:00+00:00,2022,Tottenham,Wolves,1,0,Tottenham Hotspur Stadium
+867969,2022-08-20T14:00:00+00:00,2022,Fulham,Brentford,3,2,Craven Cottage
+867968,2022-08-20T14:00:00+00:00,2022,Everton,Nottingham Forest,1,1,Goodison Park
+867971,2022-08-20T14:00:00+00:00,2022,Leicester,Southampton,1,2,King Power Stadium
+867967,2022-08-20T14:00:00+00:00,2022,Crystal Palace,Aston Villa,3,1,Selhurst Park
+867966,2022-08-20T16:30:00+00:00,2022,Bournemouth,Arsenal,0,3,Vitality Stadium
+867975,2022-08-21T13:00:00+00:00,2022,West Ham,Brighton,0,2,London Stadium
+867970,2022-08-21T13:00:00+00:00,2022,Leeds,Chelsea,3,0,Elland Road
+867973,2022-08-21T15:30:00+00:00,2022,Newcastle,Manchester City,3,3,St. James' Park
+867972,2022-08-22T19:00:00+00:00,2022,Manchester United,Liverpool,2,1,Old Trafford
+867984,2022-08-27T11:30:00+00:00,2022,Southampton,Manchester United,0,1,St. Mary's Stadium
+867981,2022-08-27T14:00:00+00:00,2022,Liverpool,Bournemouth,9,0,Anfield
+867980,2022-08-27T14:00:00+00:00,2022,Chelsea,Leicester,2,1,Stamford Bridge
+867982,2022-08-27T14:00:00+00:00,2022,Manchester City,Crystal Palace,4,2,Etihad Stadium
+867979,2022-08-27T14:00:00+00:00,2022,Brighton,Leeds,1,0,The American Express Community Stadium
+867978,2022-08-27T14:00:00+00:00,2022,Brentford,Everton,1,1,Gtech Community Stadium
+867976,2022-08-27T16:30:00+00:00,2022,Arsenal,Fulham,2,1,Emirates Stadium
+867985,2022-08-28T13:00:00+00:00,2022,Wolves,Newcastle,1,1,Molineux Stadium
+867977,2022-08-28T13:00:00+00:00,2022,Aston Villa,West Ham,0,1,Villa Park
+867983,2022-08-28T15:30:00+00:00,2022,Nottingham Forest,Tottenham,0,2,The City Ground
+867988,2022-08-30T18:30:00+00:00,2022,Fulham,Brighton,2,1,Craven Cottage
+867992,2022-08-30T18:30:00+00:00,2022,Crystal Palace,Brentford,1,1,Selhurst Park
+867993,2022-08-30T18:45:00+00:00,2022,Southampton,Chelsea,2,1,St. Mary's Stadium
+867989,2022-08-30T19:00:00+00:00,2022,Leeds,Everton,1,1,Elland Road
+867986,2022-08-31T18:30:00+00:00,2022,Bournemouth,Wolves,0,0,Vitality Stadium
+867987,2022-08-31T18:30:00+00:00,2022,Arsenal,Aston Villa,2,1,Emirates Stadium
+867995,2022-08-31T18:30:00+00:00,2022,Manchester City,Nottingham Forest,6,0,Etihad Stadium
+867991,2022-08-31T18:45:00+00:00,2022,West Ham,Tottenham,1,1,London Stadium
+867994,2022-08-31T19:00:00+00:00,2022,Liverpool,Newcastle,2,1,Anfield
+867990,2022-09-01T19:00:00+00:00,2022,Leicester,Manchester United,0,1,King Power Stadium
+868000,2022-09-03T11:30:00+00:00,2022,Everton,Liverpool,0,0,Goodison Park
+868002,2022-09-03T14:00:00+00:00,2022,Newcastle,Crystal Palace,0,0,St. James' Park
+868005,2022-09-03T14:00:00+00:00,2022,Wolves,Southampton,1,0,Molineux Stadium
+868004,2022-09-03T14:00:00+00:00,2022,Tottenham,Fulham,2,1,Tottenham Hotspur Stadium
+867999,2022-09-03T14:00:00+00:00,2022,Chelsea,West Ham,2,1,Stamford Bridge
+867997,2022-09-03T14:00:00+00:00,2022,Brentford,Leeds,5,2,Gtech Community Stadium
+868003,2022-09-03T14:00:00+00:00,2022,Nottingham Forest,Bournemouth,2,3,The City Ground
+867996,2022-09-03T16:30:00+00:00,2022,Aston Villa,Manchester City,1,1,Villa Park
+867998,2022-09-04T13:00:00+00:00,2022,Brighton,Leicester,5,2,The American Express Community Stadium
+868001,2022-09-04T15:30:00+00:00,2022,Manchester United,Arsenal,3,1,Old Trafford
+868023,2022-09-16T19:00:00+00:00,2022,Nottingham Forest,Fulham,2,3,The City Ground
+868016,2022-09-16T19:00:00+00:00,2022,Aston Villa,Southampton,1,0,Villa Park
+868025,2022-09-17T11:30:00+00:00,2022,Wolves,Manchester City,0,3,Molineux Stadium
+868022,2022-09-17T14:00:00+00:00,2022,Newcastle,Bournemouth,1,1,St. James' Park
+868024,2022-09-17T16:30:00+00:00,2022,Tottenham,Leicester,6,2,Tottenham Hotspur Stadium
+868017,2022-09-18T11:00:00+00:00,2022,Brentford,Arsenal,0,3,Gtech Community Stadium
+868020,2022-09-18T13:15:00+00:00,2022,Everton,West Ham,1,0,Goodison Park
+868027,2022-10-01T11:30:00+00:00,2022,Arsenal,Tottenham,3,1,Emirates Stadium
+868026,2022-10-01T14:00:00+00:00,2022,Bournemouth,Brentford,0,0,Vitality Stadium
+868029,2022-10-01T14:00:00+00:00,2022,Fulham,Newcastle,1,4,Craven Cottage
+868032,2022-10-01T14:00:00+00:00,2022,Liverpool,Brighton,3,3,Anfield
+868034,2022-10-01T14:00:00+00:00,2022,Southampton,Everton,1,2,St. Mary's Stadium
+868028,2022-10-01T14:00:00+00:00,2022,Crystal Palace,Chelsea,1,2,Selhurst Park
+868035,2022-10-01T16:30:00+00:00,2022,West Ham,Wolves,2,0,London Stadium
+868033,2022-10-02T13:00:00+00:00,2022,Manchester City,Manchester United,6,3,Etihad Stadium
+868030,2022-10-02T15:30:00+00:00,2022,Leeds,Aston Villa,0,0,Elland Road
+868031,2022-10-03T19:00:00+00:00,2022,Leicester,Nottingham Forest,4,0,King Power Stadium
+868043,2022-10-08T14:00:00+00:00,2022,Newcastle,Brentford,5,1,St. James' Park
+868036,2022-10-08T14:00:00+00:00,2022,Bournemouth,Leicester,2,1,Vitality Stadium
+868039,2022-10-08T14:00:00+00:00,2022,Chelsea,Wolves,3,0,Stamford Bridge
+868042,2022-10-08T14:00:00+00:00,2022,Manchester City,Southampton,4,0,Etihad Stadium
+868038,2022-10-08T16:30:00+00:00,2022,Brighton,Tottenham,0,1,The American Express Community Stadium
+868045,2022-10-09T13:00:00+00:00,2022,West Ham,Fulham,3,1,London Stadium
+868040,2022-10-09T13:00:00+00:00,2022,Crystal Palace,Leeds,2,1,Selhurst Park
+868037,2022-10-09T15:30:00+00:00,2022,Arsenal,Liverpool,3,2,Emirates Stadium
+868041,2022-10-09T18:00:00+00:00,2022,Everton,Manchester United,1,2,Goodison Park
+868044,2022-10-10T19:00:00+00:00,2022,Nottingham Forest,Aston Villa,1,1,The City Ground
+868047,2022-10-14T19:00:00+00:00,2022,Brentford,Brighton,2,0,Gtech Community Stadium
+868050,2022-10-15T11:30:00+00:00,2022,Leicester,Crystal Palace,0,0,King Power Stadium
+868048,2022-10-15T14:00:00+00:00,2022,Fulham,Bournemouth,2,2,Craven Cottage
+868055,2022-10-15T14:00:00+00:00,2022,Wolves,Nottingham Forest,1,0,Molineux Stadium
+868054,2022-10-15T16:30:00+00:00,2022,Tottenham,Everton,2,0,Tottenham Hotspur Stadium
+868052,2022-10-16T13:00:00+00:00,2022,Manchester United,Newcastle,0,0,Old Trafford
+868053,2022-10-16T13:00:00+00:00,2022,Southampton,West Ham,1,1,St. Mary's Stadium
+868049,2022-10-16T13:00:00+00:00,2022,Leeds,Arsenal,0,1,Elland Road
+868046,2022-10-16T13:00:00+00:00,2022,Aston Villa,Chelsea,0,2,Villa Park
+868051,2022-10-16T15:30:00+00:00,2022,Liverpool,Manchester City,1,0,Anfield
+868059,2022-10-18T18:30:00+00:00,2022,Brighton,Nottingham Forest,0,0,The American Express Community Stadium
+868062,2022-10-18T19:15:00+00:00,2022,Crystal Palace,Wolves,2,1,Selhurst Park
+868063,2022-10-19T18:30:00+00:00,2022,Newcastle,Everton,1,0,St. James' Park
+868056,2022-10-19T18:30:00+00:00,2022,Bournemouth,Southampton,0,1,Vitality Stadium
+868064,2022-10-19T18:30:00+00:00,2022,Liverpool,West Ham,1,0,Anfield
+868058,2022-10-19T18:30:00+00:00,2022,Brentford,Chelsea,0,0,Gtech Community Stadium
+868065,2022-10-19T19:15:00+00:00,2022,Manchester United,Tottenham,2,0,Old Trafford
+868060,2022-10-20T18:30:00+00:00,2022,Fulham,Aston Villa,3,0,Craven Cottage
+868061,2022-10-20T19:15:00+00:00,2022,Leicester,Leeds,2,0,King Power Stadium
+868071,2022-10-22T11:30:00+00:00,2022,Nottingham Forest,Liverpool,1,0,The City Ground
+868068,2022-10-22T14:00:00+00:00,2022,Everton,Crystal Palace,3,0,Goodison Park
+868070,2022-10-22T14:00:00+00:00,2022,Manchester City,Brighton,3,1,Etihad Stadium
+868067,2022-10-22T16:30:00+00:00,2022,Chelsea,Manchester United,1,1,Stamford Bridge
+868075,2022-10-23T13:00:00+00:00,2022,Wolves,Leicester,0,4,Molineux Stadium
+868072,2022-10-23T13:00:00+00:00,2022,Southampton,Arsenal,1,1,St. Mary's Stadium
+868069,2022-10-23T13:00:00+00:00,2022,Leeds,Fulham,2,3,Elland Road
+868066,2022-10-23T13:00:00+00:00,2022,Aston Villa,Brentford,4,0,Villa Park
+868073,2022-10-23T15:30:00+00:00,2022,Tottenham,Newcastle,1,2,Tottenham Hotspur Stadium
+868074,2022-10-24T19:00:00+00:00,2022,West Ham,Bournemouth,2,0,London Stadium
+868082,2022-10-29T11:30:00+00:00,2022,Leicester,Manchester City,0,1,King Power Stadium
+868085,2022-10-29T14:00:00+00:00,2022,Newcastle,Aston Villa,4,0,St. James' Park
+868076,2022-10-29T14:00:00+00:00,2022,Bournemouth,Tottenham,2,3,Vitality Stadium
+868079,2022-10-29T14:00:00+00:00,2022,Brighton,Chelsea,4,1,The American Express Community Stadium
+868080,2022-10-29T14:00:00+00:00,2022,Crystal Palace,Southampton,1,0,Selhurst Park
+868078,2022-10-29T14:00:00+00:00,2022,Brentford,Wolves,1,1,Gtech Community Stadium
+868081,2022-10-29T16:30:00+00:00,2022,Fulham,Everton,0,0,Craven Cottage
+868083,2022-10-29T18:45:00+00:00,2022,Liverpool,Leeds,1,2,Anfield
+868077,2022-10-30T14:00:00+00:00,2022,Arsenal,Nottingham Forest,5,0,Emirates Stadium
+868084,2022-10-30T16:15:00+00:00,2022,Manchester United,West Ham,1,0,Old Trafford
+868095,2022-11-05T15:00:00+00:00,2022,Wolves,Brighton,2,3,Molineux Stadium
+868090,2022-11-05T15:00:00+00:00,2022,Manchester City,Fulham,2,1,Etihad Stadium
+868089,2022-11-05T15:00:00+00:00,2022,Leeds,Bournemouth,4,3,Elland Road
+868091,2022-11-05T15:00:00+00:00,2022,Nottingham Forest,Brentford,2,2,The City Ground
+868088,2022-11-05T17:30:00+00:00,2022,Everton,Leicester,0,2,Goodison Park
+868087,2022-11-06T12:00:00+00:00,2022,Chelsea,Arsenal,0,1,Stamford Bridge
+868092,2022-11-06T14:00:00+00:00,2022,Southampton,Newcastle,1,4,St. Mary's Stadium
+868094,2022-11-06T14:00:00+00:00,2022,West Ham,Crystal Palace,1,2,London Stadium
+868086,2022-11-06T14:00:00+00:00,2022,Aston Villa,Manchester United,3,1,Villa Park
+868093,2022-11-06T16:30:00+00:00,2022,Tottenham,Liverpool,1,2,Tottenham Hotspur Stadium
+868100,2022-11-12T12:30:00+00:00,2022,Manchester City,Brentford,1,2,Etihad Stadium
+868096,2022-11-12T15:00:00+00:00,2022,Bournemouth,Everton,3,0,Vitality Stadium
+868099,2022-11-12T15:00:00+00:00,2022,Liverpool,Southampton,3,1,Anfield
+868103,2022-11-12T15:00:00+00:00,2022,Tottenham,Leeds,4,3,Tottenham Hotspur Stadium
+868104,2022-11-12T15:00:00+00:00,2022,West Ham,Leicester,0,2,London Stadium
+868102,2022-11-12T15:00:00+00:00,2022,Nottingham Forest,Crystal Palace,1,0,The City Ground
+868101,2022-11-12T17:30:00+00:00,2022,Newcastle,Chelsea,1,0,St. James' Park
+868105,2022-11-12T19:45:00+00:00,2022,Wolves,Arsenal,0,2,Molineux Stadium
+868097,2022-11-13T14:00:00+00:00,2022,Brighton,Aston Villa,1,2,The American Express Community Stadium
+868098,2022-11-13T16:30:00+00:00,2022,Fulham,Manchester United,1,2,Craven Cottage
+868108,2022-12-26T12:30:00+00:00,2022,Brentford,Tottenham,2,2,Gtech Community Stadium
+868115,2022-12-26T15:00:00+00:00,2022,Southampton,Brighton,1,3,St. Mary's Stadium
+868111,2022-12-26T15:00:00+00:00,2022,Everton,Wolves,1,2,Goodison Park
+868113,2022-12-26T15:00:00+00:00,2022,Leicester,Newcastle,0,3,King Power Stadium
+868110,2022-12-26T15:00:00+00:00,2022,Crystal Palace,Fulham,0,3,Selhurst Park
+868107,2022-12-26T17:30:00+00:00,2022,Aston Villa,Liverpool,1,3,Villa Park
+868106,2022-12-26T20:00:00+00:00,2022,Arsenal,West Ham,3,1,Emirates Stadium
+868109,2022-12-27T17:30:00+00:00,2022,Chelsea,Bournemouth,2,0,Stamford Bridge
+868114,2022-12-27T20:00:00+00:00,2022,Manchester United,Nottingham Forest,3,0,Old Trafford
+868112,2022-12-28T20:00:00+00:00,2022,Leeds,Manchester City,1,3,Elland Road
+868124,2022-12-30T19:45:00+00:00,2022,West Ham,Brentford,0,2,London Stadium
+868119,2022-12-30T20:00:00+00:00,2022,Liverpool,Leicester,2,1,Anfield
+868125,2022-12-31T12:30:00+00:00,2022,Wolves,Manchester United,0,1,Molineux Stadium
+868121,2022-12-31T15:00:00+00:00,2022,Newcastle,Leeds,0,0,St. James' Park
+868116,2022-12-31T15:00:00+00:00,2022,Bournemouth,Crystal Palace,0,2,Vitality Stadium
+868118,2022-12-31T15:00:00+00:00,2022,Fulham,Southampton,2,1,Craven Cottage
+868120,2022-12-31T15:00:00+00:00,2022,Manchester City,Everton,1,1,Etihad Stadium
+868117,2022-12-31T17:30:00+00:00,2022,Brighton,Arsenal,2,4,The American Express Community Stadium
+868123,2023-01-01T14:00:00+00:00,2022,Tottenham,Aston Villa,0,2,Tottenham Hotspur Stadium
+868122,2023-01-01T16:30:00+00:00,2022,Nottingham Forest,Chelsea,1,1,The City Ground
+868128,2023-01-02T17:30:00+00:00,2022,Brentford,Liverpool,3,1,Gtech Community Stadium
+868126,2023-01-03T19:45:00+00:00,2022,Arsenal,Newcastle,0,0,Emirates Stadium
+868131,2023-01-03T19:45:00+00:00,2022,Everton,Brighton,1,4,Goodison Park
+868133,2023-01-03T19:45:00+00:00,2022,Leicester,Fulham,0,1,King Power Stadium
+868134,2023-01-03T20:00:00+00:00,2022,Manchester United,Bournemouth,3,0,Old Trafford
+868135,2023-01-04T19:30:00+00:00,2022,Southampton,Nottingham Forest,0,1,St. Mary's Stadium
+868132,2023-01-04T19:45:00+00:00,2022,Leeds,West Ham,2,2,Elland Road
+868130,2023-01-04T20:00:00+00:00,2022,Crystal Palace,Tottenham,0,4,Selhurst Park
+868127,2023-01-04T20:00:00+00:00,2022,Aston Villa,Wolves,1,1,Villa Park
+868129,2023-01-05T20:00:00+00:00,2022,Chelsea,Manchester City,0,1,Stamford Bridge
+868009,2023-01-12T20:00:00+00:00,2022,Fulham,Chelsea,2,1,Craven Cottage
+868136,2023-01-13T20:00:00+00:00,2022,Aston Villa,Leeds,2,1,Villa Park
+868141,2023-01-14T12:30:00+00:00,2022,Manchester United,Manchester City,2,1,Old Trafford
+868145,2023-01-14T15:00:00+00:00,2022,Wolves,West Ham,1,0,Molineux Stadium
+868140,2023-01-14T15:00:00+00:00,2022,Everton,Southampton,1,2,Goodison Park
+868138,2023-01-14T15:00:00+00:00,2022,Brighton,Liverpool,3,0,The American Express Community Stadium
+868143,2023-01-14T15:00:00+00:00,2022,Nottingham Forest,Leicester,2,0,The City Ground
+868137,2023-01-14T17:30:00+00:00,2022,Brentford,Bournemouth,2,0,Gtech Community Stadium
+868142,2023-01-15T14:00:00+00:00,2022,Newcastle,Fulham,1,0,St. James' Park
+868139,2023-01-15T14:00:00+00:00,2022,Chelsea,Crystal Palace,1,0,Stamford Bridge
+868144,2023-01-15T16:30:00+00:00,2022,Tottenham,Arsenal,0,2,Tottenham Hotspur Stadium
+868008,2023-01-18T20:00:00+00:00,2022,Crystal Palace,Manchester United,1,1,Selhurst Park
+868013,2023-01-19T20:00:00+00:00,2022,Manchester City,Tottenham,4,2,Etihad Stadium
+868152,2023-01-21T12:30:00+00:00,2022,Liverpool,Chelsea,0,0,Anfield
+868146,2023-01-21T15:00:00+00:00,2022,Bournemouth,Nottingham Forest,1,1,Vitality Stadium
+868154,2023-01-21T15:00:00+00:00,2022,Southampton,Aston Villa,0,1,St. Mary's Stadium
+868151,2023-01-21T15:00:00+00:00,2022,Leicester,Brighton,2,2,King Power Stadium
+868155,2023-01-21T15:00:00+00:00,2022,West Ham,Everton,2,0,London Stadium
+868148,2023-01-21T17:30:00+00:00,2022,Crystal Palace,Newcastle,0,0,Selhurst Park
+868153,2023-01-22T14:00:00+00:00,2022,Manchester City,Wolves,3,0,Etihad Stadium
+868150,2023-01-22T14:00:00+00:00,2022,Leeds,Brentford,0,0,Elland Road
+868147,2023-01-22T16:30:00+00:00,2022,Arsenal,Manchester United,3,2,Emirates Stadium
+868149,2023-01-23T20:00:00+00:00,2022,Fulham,Tottenham,0,1,Craven Cottage
+868159,2023-02-03T20:00:00+00:00,2022,Chelsea,Fulham,0,0,Stamford Bridge
+868160,2023-02-04T12:30:00+00:00,2022,Everton,Arsenal,1,0,Goodison Park
+868161,2023-02-04T15:00:00+00:00,2022,Manchester United,Crystal Palace,2,1,Old Trafford
+868165,2023-02-04T15:00:00+00:00,2022,Wolves,Liverpool,3,0,Molineux Stadium
+868158,2023-02-04T15:00:00+00:00,2022,Brighton,Bournemouth,1,0,The American Express Community Stadium
+868157,2023-02-04T15:00:00+00:00,2022,Brentford,Southampton,3,0,Gtech Community Stadium
+868156,2023-02-04T15:00:00+00:00,2022,Aston Villa,Leicester,2,4,Villa Park
+868162,2023-02-04T17:30:00+00:00,2022,Newcastle,West Ham,1,1,St. James' Park
+868163,2023-02-05T14:00:00+00:00,2022,Nottingham Forest,Leeds,1,0,The City Ground
+868164,2023-02-05T16:30:00+00:00,2022,Tottenham,Manchester City,1,0,Tottenham Hotspur Stadium
+868021,2023-02-08T20:00:00+00:00,2022,Manchester United,Leeds,2,2,Old Trafford
+868175,2023-02-11T12:30:00+00:00,2022,West Ham,Chelsea,1,1,London Stadium
+868169,2023-02-11T15:00:00+00:00,2022,Fulham,Nottingham Forest,2,0,Craven Cottage
+868174,2023-02-11T15:00:00+00:00,2022,Southampton,Wolves,1,2,St. Mary's Stadium
+868167,2023-02-11T15:00:00+00:00,2022,Arsenal,Brentford,1,1,Emirates Stadium
+868171,2023-02-11T15:00:00+00:00,2022,Leicester,Tottenham,4,1,King Power Stadium
+868168,2023-02-11T15:00:00+00:00,2022,Crystal Palace,Brighton,1,1,Selhurst Park
+868166,2023-02-11T17:30:00+00:00,2022,Bournemouth,Newcastle,1,1,Vitality Stadium
+868170,2023-02-12T14:00:00+00:00,2022,Leeds,Manchester United,0,2,Elland Road
+868173,2023-02-12T16:30:00+00:00,2022,Manchester City,Aston Villa,3,1,Etihad Stadium
+868172,2023-02-13T20:00:00+00:00,2022,Liverpool,Everton,2,0,Anfield
+868057,2023-02-15T19:30:00+00:00,2022,Arsenal,Manchester City,1,3,Emirates Stadium
+868176,2023-02-18T12:30:00+00:00,2022,Aston Villa,Arsenal,2,4,Villa Park
+868185,2023-02-18T15:00:00+00:00,2022,Wolves,Bournemouth,0,1,Molineux Stadium
+868180,2023-02-18T15:00:00+00:00,2022,Everton,Leeds,1,0,Goodison Park
+868179,2023-02-18T15:00:00+00:00,2022,Chelsea,Southampton,0,1,Stamford Bridge
+868178,2023-02-18T15:00:00+00:00,2022,Brighton,Fulham,0,1,The American Express Community Stadium
+868177,2023-02-18T15:00:00+00:00,2022,Brentford,Crystal Palace,1,1,Gtech Community Stadium
+868183,2023-02-18T15:00:00+00:00,2022,Nottingham Forest,Manchester City,1,1,The City Ground
+868182,2023-02-18T17:30:00+00:00,2022,Newcastle,Liverpool,0,2,St. James' Park
+868181,2023-02-19T14:00:00+00:00,2022,Manchester United,Leicester,3,0,Old Trafford
+868184,2023-02-19T16:30:00+00:00,2022,Tottenham,West Ham,2,0,Tottenham Hotspur Stadium
+868189,2023-02-24T20:00:00+00:00,2022,Fulham,Wolves,1,1,Craven Cottage
+868188,2023-02-25T15:00:00+00:00,2022,Everton,Aston Villa,0,2,Goodison Park
+868191,2023-02-25T15:00:00+00:00,2022,Leicester,Arsenal,0,1,King Power Stadium
+868195,2023-02-25T15:00:00+00:00,2022,West Ham,Nottingham Forest,4,0,London Stadium
+868190,2023-02-25T15:00:00+00:00,2022,Leeds,Southampton,1,0,Elland Road
+868186,2023-02-25T17:30:00+00:00,2022,Bournemouth,Manchester City,1,4,Vitality Stadium
+868187,2023-02-25T19:45:00+00:00,2022,Crystal Palace,Liverpool,0,0,Selhurst Park
+868194,2023-02-26T13:30:00+00:00,2022,Tottenham,Chelsea,2,0,Tottenham Hotspur Stadium
+868007,2023-03-01T19:45:00+00:00,2022,Arsenal,Everton,4,0,Emirates Stadium
+868012,2023-03-01T20:00:00+00:00,2022,Liverpool,Wolves,2,0,Anfield
+868202,2023-03-04T12:30:00+00:00,2022,Manchester City,Newcastle,2,0,Etihad Stadium
+868205,2023-03-04T15:00:00+00:00,2022,Wolves,Tottenham,1,0,Molineux Stadium
+868196,2023-03-04T15:00:00+00:00,2022,Arsenal,Bournemouth,3,2,Emirates Stadium
+868200,2023-03-04T15:00:00+00:00,2022,Chelsea,Leeds,1,0,Stamford Bridge
+868199,2023-03-04T15:00:00+00:00,2022,Brighton,West Ham,4,0,The American Express Community Stadium
+868197,2023-03-04T15:00:00+00:00,2022,Aston Villa,Crystal Palace,1,0,Villa Park
+868204,2023-03-04T17:30:00+00:00,2022,Southampton,Leicester,1,0,St. Mary's Stadium
+868203,2023-03-05T14:00:00+00:00,2022,Nottingham Forest,Everton,2,2,The City Ground
+868201,2023-03-05T16:30:00+00:00,2022,Liverpool,Manchester United,7,0,Anfield
+868198,2023-03-06T20:00:00+00:00,2022,Brentford,Fulham,3,2,Gtech Community Stadium
+868206,2023-03-11T12:30:00+00:00,2022,Bournemouth,Liverpool,1,0,Vitality Stadium
+868208,2023-03-11T15:00:00+00:00,2022,Everton,Brentford,1,0,Goodison Park
+868211,2023-03-11T15:00:00+00:00,2022,Leicester,Chelsea,1,3,King Power Stadium
+868214,2023-03-11T15:00:00+00:00,2022,Tottenham,Nottingham Forest,3,1,Tottenham Hotspur Stadium
+868210,2023-03-11T15:00:00+00:00,2022,Leeds,Brighton,2,2,Elland Road
+868207,2023-03-11T17:30:00+00:00,2022,Crystal Palace,Manchester City,0,1,Selhurst Park
+868212,2023-03-12T14:00:00+00:00,2022,Manchester United,Southampton,0,0,Old Trafford
+868209,2023-03-12T14:00:00+00:00,2022,Fulham,Arsenal,0,3,Craven Cottage
+868215,2023-03-12T14:00:00+00:00,2022,West Ham,Aston Villa,1,1,London Stadium
+868213,2023-03-12T16:30:00+00:00,2022,Newcastle,Wolves,2,1,St. James' Park
+868014,2023-03-15T19:30:00+00:00,2022,Southampton,Brentford,0,2,St. Mary's Stadium
+868018,2023-03-15T19:30:00+00:00,2022,Brighton,Crystal Palace,1,0,The American Express Community Stadium
+868223,2023-03-17T20:00:00+00:00,2022,Nottingham Forest,Newcastle,1,2,The City Ground
+868225,2023-03-18T15:00:00+00:00,2022,Wolves,Leeds,2,4,Molineux Stadium
+868224,2023-03-18T15:00:00+00:00,2022,Southampton,Tottenham,3,3,St. Mary's Stadium
+868218,2023-03-18T15:00:00+00:00,2022,Brentford,Leicester,1,1,Gtech Community Stadium
+868217,2023-03-18T15:00:00+00:00,2022,Aston Villa,Bournemouth,3,0,Villa Park
+868220,2023-03-18T17:30:00+00:00,2022,Chelsea,Everton,2,2,Stamford Bridge
+868216,2023-03-19T14:00:00+00:00,2022,Arsenal,Crystal Palace,4,1,Emirates Stadium
+868232,2023-04-01T11:30:00+00:00,2022,Manchester City,Liverpool,4,1,Etihad Stadium
+868226,2023-04-01T14:00:00+00:00,2022,Bournemouth,Fulham,2,1,Vitality Stadium
+868227,2023-04-01T14:00:00+00:00,2022,Arsenal,Leeds,4,1,Emirates Stadium
+868228,2023-04-01T14:00:00+00:00,2022,Brighton,Brentford,3,3,The American Express Community Stadium
+868230,2023-04-01T14:00:00+00:00,2022,Crystal Palace,Leicester,2,1,Selhurst Park
+868234,2023-04-01T14:00:00+00:00,2022,Nottingham Forest,Wolves,1,1,The City Ground
+868229,2023-04-01T16:30:00+00:00,2022,Chelsea,Aston Villa,0,2,Stamford Bridge
+868235,2023-04-02T13:00:00+00:00,2022,West Ham,Southampton,1,0,London Stadium
+868233,2023-04-02T15:30:00+00:00,2022,Newcastle,Manchester United,2,0,St. James' Park
+868231,2023-04-03T19:00:00+00:00,2022,Everton,Tottenham,1,1,Goodison Park
+868006,2023-04-04T18:45:00+00:00,2022,Bournemouth,Brighton,0,2,Vitality Stadium
+868011,2023-04-04T18:45:00+00:00,2022,Leicester,Aston Villa,1,2,King Power Stadium
+868010,2023-04-04T18:45:00+00:00,2022,Leeds,Nottingham Forest,2,1,Elland Road
+868019,2023-04-04T19:00:00+00:00,2022,Chelsea,Liverpool,0,0,Stamford Bridge
+868192,2023-04-05T19:00:00+00:00,2022,Manchester United,Brentford,1,0,Old Trafford
+868015,2023-04-05T19:00:00+00:00,2022,West Ham,Newcastle,1,5,London Stadium
+868242,2023-04-08T11:30:00+00:00,2022,Manchester United,Everton,2,0,Old Trafford
+868238,2023-04-08T14:00:00+00:00,2022,Fulham,West Ham,0,1,Craven Cottage
+868245,2023-04-08T14:00:00+00:00,2022,Wolves,Chelsea,1,0,Molineux Stadium
+868240,2023-04-08T14:00:00+00:00,2022,Leicester,Bournemouth,0,1,King Power Stadium
+868244,2023-04-08T14:00:00+00:00,2022,Tottenham,Brighton,2,1,Tottenham Hotspur Stadium
+868237,2023-04-08T14:00:00+00:00,2022,Brentford,Newcastle,1,2,Gtech Community Stadium
+868236,2023-04-08T14:00:00+00:00,2022,Aston Villa,Nottingham Forest,2,0,Villa Park
+868243,2023-04-08T16:30:00+00:00,2022,Southampton,Manchester City,1,4,St. Mary's Stadium
+868239,2023-04-09T13:00:00+00:00,2022,Leeds,Crystal Palace,1,5,Elland Road
+868241,2023-04-09T15:30:00+00:00,2022,Liverpool,Arsenal,2,2,Anfield
+868246,2023-04-15T11:30:00+00:00,2022,Aston Villa,Newcastle,3,0,Villa Park
+868255,2023-04-15T14:00:00+00:00,2022,Wolves,Brentford,2,0,Molineux Stadium
+868252,2023-04-15T14:00:00+00:00,2022,Southampton,Crystal Palace,0,2,St. Mary's Stadium
+868248,2023-04-15T14:00:00+00:00,2022,Everton,Fulham,1,3,Goodison Park
+868247,2023-04-15T14:00:00+00:00,2022,Chelsea,Brighton,1,2,Stamford Bridge
+868253,2023-04-15T14:15:00+00:00,2022,Tottenham,Bournemouth,2,3,Tottenham Hotspur Stadium
+868250,2023-04-15T16:30:00+00:00,2022,Manchester City,Leicester,3,1,Etihad Stadium
+868254,2023-04-16T13:00:00+00:00,2022,West Ham,Arsenal,2,2,London Stadium
+868251,2023-04-16T15:30:00+00:00,2022,Nottingham Forest,Manchester United,0,2,The City Ground
+868249,2023-04-17T19:00:00+00:00,2022,Leeds,Liverpool,1,6,Elland Road
+868257,2023-04-21T19:00:00+00:00,2022,Arsenal,Southampton,3,3,Emirates Stadium
+868261,2023-04-22T11:30:00+00:00,2022,Fulham,Leeds,2,1,Craven Cottage
+868263,2023-04-22T14:00:00+00:00,2022,Liverpool,Nottingham Forest,3,2,Anfield
+868262,2023-04-22T14:00:00+00:00,2022,Leicester,Wolves,2,1,King Power Stadium
+868260,2023-04-22T14:00:00+00:00,2022,Crystal Palace,Everton,0,0,Selhurst Park
+868258,2023-04-22T14:00:00+00:00,2022,Brentford,Aston Villa,1,1,Gtech Community Stadium
+868265,2023-04-23T13:00:00+00:00,2022,Newcastle,Tottenham,6,1,St. James' Park
+868256,2023-04-23T13:00:00+00:00,2022,Bournemouth,West Ham,0,4,Vitality Stadium
+868271,2023-04-25T18:30:00+00:00,2022,Wolves,Crystal Palace,2,0,Molineux Stadium
+868272,2023-04-25T18:45:00+00:00,2022,Aston Villa,Fulham,1,0,Villa Park
+868267,2023-04-25T19:00:00+00:00,2022,Leeds,Leicester,1,1,Elland Road
+868268,2023-04-26T18:30:00+00:00,2022,Nottingham Forest,Brighton,3,1,The City Ground
+868270,2023-04-26T18:45:00+00:00,2022,West Ham,Liverpool,1,2,London Stadium
+868273,2023-04-26T18:45:00+00:00,2022,Chelsea,Brentford,0,2,Stamford Bridge
+868275,2023-04-26T19:00:00+00:00,2022,Manchester City,Arsenal,4,1,Etihad Stadium
+868274,2023-04-27T18:45:00+00:00,2022,Southampton,Bournemouth,0,1,St. Mary's Stadium
+868266,2023-04-27T18:45:00+00:00,2022,Everton,Newcastle,1,4,Goodison Park
+868269,2023-04-27T19:15:00+00:00,2022,Tottenham,Manchester United,2,2,Tottenham Hotspur Stadium
+868280,2023-04-29T11:30:00+00:00,2022,Crystal Palace,West Ham,4,3,Selhurst Park
+868279,2023-04-29T14:00:00+00:00,2022,Brighton,Wolves,6,0,The American Express Community Stadium
+868278,2023-04-29T14:00:00+00:00,2022,Brentford,Nottingham Forest,2,1,Gtech Community Stadium
+868284,2023-04-30T13:00:00+00:00,2022,Manchester United,Aston Villa,1,0,Old Trafford
+868285,2023-04-30T13:00:00+00:00,2022,Newcastle,Southampton,3,1,St. James' Park
+868276,2023-04-30T13:00:00+00:00,2022,Bournemouth,Leeds,4,1,Vitality Stadium
+868281,2023-04-30T13:00:00+00:00,2022,Fulham,Manchester City,1,2,Craven Cottage
+868283,2023-04-30T15:30:00+00:00,2022,Liverpool,Tottenham,4,3,Anfield
+868282,2023-05-01T19:00:00+00:00,2022,Leicester,Everton,2,2,King Power Stadium
+868277,2023-05-02T19:00:00+00:00,2022,Arsenal,Chelsea,3,1,Emirates Stadium
+868221,2023-05-03T19:00:00+00:00,2022,Liverpool,Fulham,1,0,Anfield
+868222,2023-05-03T19:00:00+00:00,2022,Manchester City,West Ham,3,0,Etihad Stadium
+868219,2023-05-04T19:00:00+00:00,2022,Brighton,Manchester United,1,0,The American Express Community Stadium
+868286,2023-05-06T14:00:00+00:00,2022,Bournemouth,Chelsea,1,3,Vitality Stadium
+868295,2023-05-06T14:00:00+00:00,2022,Wolves,Aston Villa,1,0,Molineux Stadium
+868293,2023-05-06T14:00:00+00:00,2022,Tottenham,Crystal Palace,1,0,Tottenham Hotspur Stadium
+868290,2023-05-06T14:00:00+00:00,2022,Manchester City,Leeds,2,1,Etihad Stadium
+868289,2023-05-06T16:30:00+00:00,2022,Liverpool,Brentford,1,0,Anfield
+868291,2023-05-07T15:30:00+00:00,2022,Newcastle,Arsenal,0,2,St. James' Park
+868294,2023-05-07T18:00:00+00:00,2022,West Ham,Manchester United,1,0,London Stadium
+868288,2023-05-08T14:00:00+00:00,2022,Fulham,Leicester,5,3,Craven Cottage
+868287,2023-05-08T16:30:00+00:00,2022,Brighton,Everton,1,5,The American Express Community Stadium
+868292,2023-05-08T19:00:00+00:00,2022,Nottingham Forest,Southampton,4,3,The City Ground
+868302,2023-05-13T11:30:00+00:00,2022,Leeds,Newcastle,2,2,Elland Road
+868304,2023-05-13T14:00:00+00:00,2022,Manchester United,Wolves,2,0,Old Trafford
+868305,2023-05-13T14:00:00+00:00,2022,Southampton,Fulham,0,2,St. Mary's Stadium
+868299,2023-05-13T14:00:00+00:00,2022,Chelsea,Nottingham Forest,2,2,Stamford Bridge
+868300,2023-05-13T14:00:00+00:00,2022,Crystal Palace,Bournemouth,2,0,Selhurst Park
+868297,2023-05-13T14:00:00+00:00,2022,Aston Villa,Tottenham,2,1,Villa Park
+868301,2023-05-14T13:00:00+00:00,2022,Everton,Manchester City,0,3,Goodison Park
+868298,2023-05-14T13:00:00+00:00,2022,Brentford,West Ham,2,0,Gtech Community Stadium
+868296,2023-05-14T15:30:00+00:00,2022,Arsenal,Brighton,0,3,Emirates Stadium
+868303,2023-05-15T19:00:00+00:00,2022,Leicester,Liverpool,0,3,King Power Stadium
+868193,2023-05-18T18:30:00+00:00,2022,Newcastle,Brighton,4,1,St. James' Park
+868313,2023-05-20T11:30:00+00:00,2022,Tottenham,Brentford,1,3,Tottenham Hotspur Stadium
+868306,2023-05-20T14:00:00+00:00,2022,Bournemouth,Manchester United,0,1,Vitality Stadium
+868308,2023-05-20T14:00:00+00:00,2022,Fulham,Crystal Palace,2,2,Craven Cottage
+868315,2023-05-20T14:00:00+00:00,2022,Wolves,Everton,1,1,Molineux Stadium
+868309,2023-05-20T14:00:00+00:00,2022,Liverpool,Aston Villa,1,1,Anfield
+868312,2023-05-20T16:30:00+00:00,2022,Nottingham Forest,Arsenal,1,0,The City Ground
+868314,2023-05-21T12:30:00+00:00,2022,West Ham,Leeds,3,1,London Stadium
+868307,2023-05-21T13:00:00+00:00,2022,Brighton,Southampton,3,1,The American Express Community Stadium
+868310,2023-05-21T15:00:00+00:00,2022,Manchester City,Chelsea,1,0,Etihad Stadium
+868311,2023-05-22T19:00:00+00:00,2022,Newcastle,Leicester,0,0,St. James' Park
+868259,2023-05-24T19:00:00+00:00,2022,Brighton,Manchester City,1,1,The American Express Community Stadium
+868264,2023-05-25T19:00:00+00:00,2022,Manchester United,Chelsea,4,1,Old Trafford
+868324,2023-05-28T15:30:00+00:00,2022,Manchester United,Fulham,2,1,Old Trafford
+868325,2023-05-28T15:30:00+00:00,2022,Southampton,Liverpool,4,4,St. Mary's Stadium
+868316,2023-05-28T15:30:00+00:00,2022,Arsenal,Wolves,5,0,Emirates Stadium
+868321,2023-05-28T15:30:00+00:00,2022,Everton,Bournemouth,1,0,Goodison Park
+868323,2023-05-28T15:30:00+00:00,2022,Leicester,West Ham,2,1,King Power Stadium
+868319,2023-05-28T15:30:00+00:00,2022,Chelsea,Newcastle,1,1,Stamford Bridge
+868320,2023-05-28T15:30:00+00:00,2022,Crystal Palace,Nottingham Forest,1,1,Selhurst Park
+868318,2023-05-28T15:30:00+00:00,2022,Brentford,Manchester City,1,0,Gtech Community Stadium
+868322,2023-05-28T15:30:00+00:00,2022,Leeds,Tottenham,1,4,Elland Road
+868317,2023-05-28T15:30:00+00:00,2022,Aston Villa,Brighton,2,1,Villa Park
+1035037,2023-08-11T19:00:00+00:00,2023,Burnley,Manchester City,0,3,Turf Moor
+1035038,2023-08-12T11:30:00+00:00,2023,Arsenal,Nottingham Forest,2,1,Emirates Stadium
+1035039,2023-08-12T14:00:00+00:00,2023,Bournemouth,West Ham,1,1,Vitality Stadium
+1035041,2023-08-12T14:00:00+00:00,2023,Everton,Fulham,0,1,Goodison Park
+1035040,2023-08-12T14:00:00+00:00,2023,Brighton,Luton,4,1,The American Express Community Stadium
+1035042,2023-08-12T14:00:00+00:00,2023,Sheffield Utd,Crystal Palace,0,1,Bramall Lane
+1035043,2023-08-12T16:30:00+00:00,2023,Newcastle,Aston Villa,5,1,St. James' Park
+1035044,2023-08-13T13:00:00+00:00,2023,Brentford,Tottenham,2,2,Gtech Community Stadium
+1035045,2023-08-13T15:30:00+00:00,2023,Chelsea,Liverpool,1,1,Stamford Bridge
+1035046,2023-08-14T19:00:00+00:00,2023,Manchester United,Wolves,1,0,Old Trafford
+1035053,2023-08-18T18:45:00+00:00,2023,Nottingham Forest,Sheffield Utd,2,1,The City Ground
+1035049,2023-08-19T14:00:00+00:00,2023,Fulham,Brentford,0,3,Craven Cottage
+1035056,2023-08-19T14:00:00+00:00,2023,Wolves,Brighton,1,4,Molineux Stadium
+1035050,2023-08-19T14:00:00+00:00,2023,Liverpool,Bournemouth,3,1,Anfield
+1035054,2023-08-19T16:30:00+00:00,2023,Tottenham,Manchester United,2,0,Tottenham Hotspur Stadium
+1035052,2023-08-19T19:00:00+00:00,2023,Manchester City,Newcastle,1,0,Etihad Stadium
+1035047,2023-08-20T13:00:00+00:00,2023,Aston Villa,Everton,4,0,Villa Park
+1035055,2023-08-20T15:30:00+00:00,2023,West Ham,Chelsea,3,1,London Stadium
+1035048,2023-08-21T19:00:00+00:00,2023,Crystal Palace,Arsenal,0,1,Selhurst Park
+1035062,2023-08-25T19:00:00+00:00,2023,Chelsea,Luton,3,0,Stamford Bridge
+1035057,2023-08-26T11:30:00+00:00,2023,Bournemouth,Tottenham,0,2,Vitality Stadium
+1035064,2023-08-26T14:00:00+00:00,2023,Manchester United,Nottingham Forest,3,2,Old Trafford
+1035058,2023-08-26T14:00:00+00:00,2023,Arsenal,Fulham,2,2,Emirates Stadium
+1035063,2023-08-26T14:00:00+00:00,2023,Everton,Wolves,0,1,Goodison Park
+1035059,2023-08-26T14:00:00+00:00,2023,Brentford,Crystal Palace,1,1,Gtech Community Stadium
+1035060,2023-08-26T16:30:00+00:00,2023,Brighton,West Ham,1,3,The American Express Community Stadium
+1035061,2023-08-27T13:00:00+00:00,2023,Burnley,Aston Villa,1,3,Turf Moor
+1035066,2023-08-27T13:00:00+00:00,2023,Sheffield Utd,Manchester City,1,2,Bramall Lane
+1035065,2023-08-27T15:30:00+00:00,2023,Newcastle,Liverpool,1,2,St. James' Park
+1035074,2023-09-01T19:00:00+00:00,2023,Luton,West Ham,1,2,Kenilworth Road
+1035076,2023-09-02T11:30:00+00:00,2023,Sheffield Utd,Everton,2,2,Bramall Lane
+1035070,2023-09-02T14:00:00+00:00,2023,Burnley,Tottenham,2,5,Turf Moor
+1035071,2023-09-02T14:00:00+00:00,2023,Chelsea,Nottingham Forest,0,1,Stamford Bridge
+1035075,2023-09-02T14:00:00+00:00,2023,Manchester City,Fulham,5,1,Etihad Stadium
+1035068,2023-09-02T14:00:00+00:00,2023,Brentford,Bournemouth,2,2,Gtech Community Stadium
+1035069,2023-09-02T16:30:00+00:00,2023,Brighton,Newcastle,3,1,The American Express Community Stadium
+1035073,2023-09-03T13:00:00+00:00,2023,Liverpool,Aston Villa,3,0,Anfield
+1035072,2023-09-03T13:00:00+00:00,2023,Crystal Palace,Wolves,3,2,Selhurst Park
+1035067,2023-09-03T15:30:00+00:00,2023,Arsenal,Manchester United,3,1,Emirates Stadium
+1035086,2023-09-16T11:30:00+00:00,2023,Wolves,Liverpool,1,3,Molineux Stadium
+1035081,2023-09-16T14:00:00+00:00,2023,Manchester United,Brighton,1,3,Old Trafford
+1035080,2023-09-16T14:00:00+00:00,2023,Fulham,Luton,1,0,Craven Cottage
+1035084,2023-09-16T14:00:00+00:00,2023,Tottenham,Sheffield Utd,2,1,Tottenham Hotspur Stadium
+1035085,2023-09-16T14:00:00+00:00,2023,West Ham,Manchester City,1,3,London Stadium
+1035078,2023-09-16T14:00:00+00:00,2023,Aston Villa,Crystal Palace,3,1,Villa Park
+1035082,2023-09-16T16:30:00+00:00,2023,Newcastle,Brentford,1,0,St. James' Park
+1035077,2023-09-17T13:00:00+00:00,2023,Bournemouth,Chelsea,0,0,Vitality Stadium
+1035079,2023-09-17T15:30:00+00:00,2023,Everton,Arsenal,0,1,Goodison Park
+1035083,2023-09-18T18:45:00+00:00,2023,Nottingham Forest,Burnley,1,1,The City Ground
+1035095,2023-09-23T14:00:00+00:00,2023,Manchester City,Nottingham Forest,2,0,Etihad Stadium
+1035092,2023-09-23T14:00:00+00:00,2023,Crystal Palace,Fulham,0,0,Selhurst Park
+1035094,2023-09-23T14:00:00+00:00,2023,Luton,Wolves,1,1,Kenilworth Road
+1035088,2023-09-23T16:30:00+00:00,2023,Brentford,Everton,1,3,Gtech Community Stadium
+1035090,2023-09-23T19:00:00+00:00,2023,Burnley,Manchester United,0,1,Turf Moor
+1035093,2023-09-24T13:00:00+00:00,2023,Liverpool,West Ham,3,1,Anfield
+1035087,2023-09-24T13:00:00+00:00,2023,Arsenal,Tottenham,2,2,Emirates Stadium
+1035091,2023-09-24T13:00:00+00:00,2023,Chelsea,Aston Villa,0,1,Stamford Bridge
+1035089,2023-09-24T13:00:00+00:00,2023,Brighton,Bournemouth,3,1,The American Express Community Stadium
+1035096,2023-09-24T15:30:00+00:00,2023,Sheffield Utd,Newcastle,0,8,Bramall Lane
+1035098,2023-09-30T11:30:00+00:00,2023,Aston Villa,Brighton,6,1,Villa Park
+1035101,2023-09-30T14:00:00+00:00,2023,Manchester United,Crystal Palace,0,1,Old Trafford
+1035102,2023-09-30T14:00:00+00:00,2023,Newcastle,Burnley,2,0,St. James' Park
+1035097,2023-09-30T14:00:00+00:00,2023,Bournemouth,Arsenal,0,4,Vitality Stadium
+1035106,2023-09-30T14:00:00+00:00,2023,Wolves,Manchester City,2,1,Molineux Stadium
+1035099,2023-09-30T14:00:00+00:00,2023,Everton,Luton,1,2,Goodison Park
+1035105,2023-09-30T14:00:00+00:00,2023,West Ham,Sheffield Utd,2,0,London Stadium
+1035104,2023-09-30T16:30:00+00:00,2023,Tottenham,Liverpool,2,1,Tottenham Hotspur Stadium
+1035103,2023-10-01T13:00:00+00:00,2023,Nottingham Forest,Brentford,1,1,The City Ground
+1035100,2023-10-02T19:00:00+00:00,2023,Fulham,Chelsea,0,2,Craven Cottage
+1035051,2023-10-03T18:30:00+00:00,2023,Luton,Burnley,1,2,Kenilworth Road
+1035113,2023-10-07T11:30:00+00:00,2023,Luton,Tottenham,0,1,Kenilworth Road
+1035114,2023-10-07T14:00:00+00:00,2023,Manchester United,Brentford,2,1,Old Trafford
+1035112,2023-10-07T14:00:00+00:00,2023,Fulham,Sheffield Utd,3,1,Craven Cottage
+1035109,2023-10-07T14:00:00+00:00,2023,Burnley,Chelsea,1,4,Turf Moor
+1035111,2023-10-07T14:00:00+00:00,2023,Everton,Bournemouth,3,0,Goodison Park
+1035110,2023-10-07T16:30:00+00:00,2023,Crystal Palace,Nottingham Forest,0,0,Selhurst Park
+1035116,2023-10-08T13:00:00+00:00,2023,Wolves,Aston Villa,1,1,Molineux Stadium
+1035115,2023-10-08T13:00:00+00:00,2023,West Ham,Newcastle,2,2,London Stadium
+1035108,2023-10-08T13:00:00+00:00,2023,Brighton,Liverpool,2,2,The American Express Community Stadium
+1035107,2023-10-08T15:30:00+00:00,2023,Arsenal,Manchester City,1,0,Emirates Stadium
+1035121,2023-10-21T11:30:00+00:00,2023,Liverpool,Everton,2,0,Anfield
+1035123,2023-10-21T14:00:00+00:00,2023,Newcastle,Crystal Palace,4,0,St. James' Park
+1035117,2023-10-21T14:00:00+00:00,2023,Bournemouth,Wolves,1,2,Vitality Stadium
+1035122,2023-10-21T14:00:00+00:00,2023,Manchester City,Brighton,2,1,Etihad Stadium
+1035119,2023-10-21T14:00:00+00:00,2023,Brentford,Burnley,3,0,Gtech Community Stadium
+1035124,2023-10-21T14:00:00+00:00,2023,Nottingham Forest,Luton,2,2,The City Ground
+1035120,2023-10-21T16:30:00+00:00,2023,Chelsea,Arsenal,2,2,Stamford Bridge
+1035125,2023-10-21T19:00:00+00:00,2023,Sheffield Utd,Manchester United,1,2,Bramall Lane
+1035118,2023-10-22T15:30:00+00:00,2023,Aston Villa,West Ham,4,1,Villa Park
+1035126,2023-10-23T19:00:00+00:00,2023,Tottenham,Fulham,2,0,Tottenham Hotspur Stadium
+1035132,2023-10-27T19:00:00+00:00,2023,Crystal Palace,Tottenham,1,2,Selhurst Park
+1035131,2023-10-28T11:30:00+00:00,2023,Chelsea,Brentford,0,2,Stamford Bridge
+1035127,2023-10-28T14:00:00+00:00,2023,Bournemouth,Burnley,2,1,Vitality Stadium
+1035128,2023-10-28T14:00:00+00:00,2023,Arsenal,Sheffield Utd,5,0,Emirates Stadium
+1035136,2023-10-28T16:30:00+00:00,2023,Wolves,Newcastle,2,2,Molineux Stadium
+1035135,2023-10-29T13:00:00+00:00,2023,West Ham,Everton,0,1,London Stadium
+1035133,2023-10-29T14:00:00+00:00,2023,Liverpool,Nottingham Forest,3,0,Anfield
+1035130,2023-10-29T14:00:00+00:00,2023,Brighton,Fulham,1,1,The American Express Community Stadium
+1035129,2023-10-29T14:00:00+00:00,2023,Aston Villa,Luton,3,1,Villa Park
+1035134,2023-10-29T15:30:00+00:00,2023,Manchester United,Manchester City,0,3,Old Trafford
+1035140,2023-11-04T12:30:00+00:00,2023,Fulham,Manchester United,0,1,Craven Cottage
+1035138,2023-11-04T15:00:00+00:00,2023,Burnley,Crystal Palace,0,2,Turf Moor
+1035139,2023-11-04T15:00:00+00:00,2023,Everton,Brighton,1,1,Goodison Park
+1035142,2023-11-04T15:00:00+00:00,2023,Manchester City,Bournemouth,6,1,Etihad Stadium
+1035137,2023-11-04T15:00:00+00:00,2023,Brentford,West Ham,3,2,Gtech Community Stadium
+1035145,2023-11-04T15:00:00+00:00,2023,Sheffield Utd,Wolves,2,1,Bramall Lane
+1035143,2023-11-04T17:30:00+00:00,2023,Newcastle,Arsenal,1,0,St. James' Park
+1035144,2023-11-05T14:00:00+00:00,2023,Nottingham Forest,Aston Villa,2,0,The City Ground
+1035141,2023-11-05T16:30:00+00:00,2023,Luton,Liverpool,1,1,Kenilworth Road
+1035146,2023-11-06T20:00:00+00:00,2023,Tottenham,Chelsea,1,4,Tottenham Hotspur Stadium
+1035156,2023-11-11T12:30:00+00:00,2023,Wolves,Tottenham,2,1,Molineux Stadium
+1035154,2023-11-11T15:00:00+00:00,2023,Manchester United,Luton,1,0,Old Trafford
+1035148,2023-11-11T15:00:00+00:00,2023,Arsenal,Burnley,3,1,Emirates Stadium
+1035152,2023-11-11T15:00:00+00:00,2023,Crystal Palace,Everton,2,3,Selhurst Park
+1035147,2023-11-11T17:30:00+00:00,2023,Bournemouth,Newcastle,2,0,Vitality Stadium
+1035153,2023-11-12T14:00:00+00:00,2023,Liverpool,Brentford,3,0,Anfield
+1035155,2023-11-12T14:00:00+00:00,2023,West Ham,Nottingham Forest,3,2,London Stadium
+1035150,2023-11-12T14:00:00+00:00,2023,Brighton,Sheffield Utd,1,1,The American Express Community Stadium
+1035149,2023-11-12T14:00:00+00:00,2023,Aston Villa,Fulham,3,1,Villa Park
+1035151,2023-11-12T16:30:00+00:00,2023,Chelsea,Manchester City,4,4,Stamford Bridge
+1035299,2023-11-25T12:30:00+00:00,2023,Manchester City,Liverpool,1,1,Etihad Stadium
+1035300,2023-11-25T15:00:00+00:00,2023,Newcastle,Chelsea,4,1,St. James' Park
+1035295,2023-11-25T15:00:00+00:00,2023,Burnley,West Ham,1,2,Turf Moor
+1035302,2023-11-25T15:00:00+00:00,2023,Sheffield Utd,Bournemouth,1,3,Bramall Lane
+1035301,2023-11-25T15:00:00+00:00,2023,Nottingham Forest,Brighton,2,3,The City Ground
+1035298,2023-11-25T15:00:00+00:00,2023,Luton,Crystal Palace,2,1,Kenilworth Road
+1035294,2023-11-25T17:30:00+00:00,2023,Brentford,Arsenal,0,1,Gtech Community Stadium
+1035303,2023-11-26T14:00:00+00:00,2023,Tottenham,Aston Villa,1,2,Tottenham Hotspur Stadium
+1035296,2023-11-26T16:30:00+00:00,2023,Everton,Manchester United,0,3,Goodison Park
+1035297,2023-11-27T20:00:00+00:00,2023,Fulham,Wolves,3,2,Craven Cottage
+1035305,2023-12-02T15:00:00+00:00,2023,Arsenal,Wolves,2,1,Emirates Stadium
+1035307,2023-12-02T15:00:00+00:00,2023,Burnley,Sheffield Utd,5,0,Turf Moor
+1035306,2023-12-02T15:00:00+00:00,2023,Brentford,Luton,3,1,Gtech Community Stadium
+1035312,2023-12-02T17:30:00+00:00,2023,Nottingham Forest,Everton,0,1,The City Ground
+1035311,2023-12-02T20:00:00+00:00,2023,Newcastle,Manchester United,1,0,St. James' Park
+1035304,2023-12-03T14:00:00+00:00,2023,Bournemouth,Aston Villa,2,2,Vitality Stadium
+1035309,2023-12-03T14:00:00+00:00,2023,Liverpool,Fulham,4,3,Anfield
+1035313,2023-12-03T14:00:00+00:00,2023,West Ham,Crystal Palace,1,1,London Stadium
+1035308,2023-12-03T14:00:00+00:00,2023,Chelsea,Brighton,3,2,Stamford Bridge
+1035310,2023-12-03T16:30:00+00:00,2023,Manchester City,Tottenham,3,3,Etihad Stadium
+1035321,2023-12-05T19:30:00+00:00,2023,Wolves,Burnley,1,0,Molineux Stadium
+1035318,2023-12-05T20:15:00+00:00,2023,Luton,Arsenal,3,4,Kenilworth Road
+1035317,2023-12-06T19:30:00+00:00,2023,Fulham,Nottingham Forest,5,0,Craven Cottage
+1035315,2023-12-06T19:30:00+00:00,2023,Brighton,Brentford,2,1,The American Express Community Stadium
+1035322,2023-12-06T19:30:00+00:00,2023,Crystal Palace,Bournemouth,0,2,Selhurst Park
+1035319,2023-12-06T19:30:00+00:00,2023,Sheffield Utd,Liverpool,0,2,Bramall Lane
+1035323,2023-12-06T20:15:00+00:00,2023,Manchester United,Chelsea,2,1,Old Trafford
+1035314,2023-12-06T20:15:00+00:00,2023,Aston Villa,Manchester City,1,0,Villa Park
+1035316,2023-12-07T19:30:00+00:00,2023,Everton,Newcastle,3,0,Goodison Park
+1035320,2023-12-07T20:15:00+00:00,2023,Tottenham,West Ham,1,2,Tottenham Hotspur Stadium
+1035326,2023-12-09T12:30:00+00:00,2023,Crystal Palace,Liverpool,1,2,Selhurst Park
+1035330,2023-12-09T15:00:00+00:00,2023,Manchester United,Bournemouth,0,3,Old Trafford
+1035333,2023-12-09T15:00:00+00:00,2023,Wolves,Nottingham Forest,1,1,Molineux Stadium
+1035325,2023-12-09T15:00:00+00:00,2023,Brighton,Burnley,1,1,The American Express Community Stadium
+1035331,2023-12-09T15:00:00+00:00,2023,Sheffield Utd,Brentford,1,0,Bramall Lane
+1035324,2023-12-09T17:30:00+00:00,2023,Aston Villa,Arsenal,1,0,Villa Park
+1035328,2023-12-10T14:00:00+00:00,2023,Fulham,West Ham,5,0,Craven Cottage
+1035327,2023-12-10T14:00:00+00:00,2023,Everton,Chelsea,2,0,Goodison Park
+1035329,2023-12-10T14:00:00+00:00,2023,Luton,Manchester City,1,2,Kenilworth Road
+1035332,2023-12-10T16:30:00+00:00,2023,Tottenham,Newcastle,4,1,Tottenham Hotspur Stadium
+1035342,2023-12-15T20:00:00+00:00,2023,Nottingham Forest,Tottenham,0,2,The City Ground
+1035341,2023-12-16T15:00:00+00:00,2023,Newcastle,Fulham,3,0,St. James' Park
+1035338,2023-12-16T15:00:00+00:00,2023,Chelsea,Sheffield Utd,2,0,Stamford Bridge
+1035340,2023-12-16T15:00:00+00:00,2023,Manchester City,Crystal Palace,2,2,Etihad Stadium
+1035337,2023-12-16T17:30:00+00:00,2023,Burnley,Everton,0,2,Turf Moor
+1035335,2023-12-17T14:00:00+00:00,2023,Arsenal,Brighton,2,0,Emirates Stadium
+1035343,2023-12-17T14:00:00+00:00,2023,West Ham,Wolves,3,0,London Stadium
+1035336,2023-12-17T14:00:00+00:00,2023,Brentford,Aston Villa,1,2,Gtech Community Stadium
+1035339,2023-12-17T16:30:00+00:00,2023,Liverpool,Manchester United,0,0,Anfield
+1035345,2023-12-21T20:00:00+00:00,2023,Crystal Palace,Brighton,1,1,Selhurst Park
+1035344,2023-12-22T20:00:00+00:00,2023,Aston Villa,Sheffield Utd,1,1,Villa Park
+1035352,2023-12-23T12:30:00+00:00,2023,West Ham,Manchester United,2,0,London Stadium
+1035346,2023-12-23T15:00:00+00:00,2023,Fulham,Burnley,0,2,Craven Cottage
+1035351,2023-12-23T15:00:00+00:00,2023,Tottenham,Everton,2,1,Tottenham Hotspur Stadium
+1035350,2023-12-23T15:00:00+00:00,2023,Nottingham Forest,Bournemouth,2,3,The City Ground
+1035348,2023-12-23T15:00:00+00:00,2023,Luton,Newcastle,1,0,Kenilworth Road
+1035347,2023-12-23T17:30:00+00:00,2023,Liverpool,Arsenal,1,1,Anfield
+1035353,2023-12-24T13:00:00+00:00,2023,Wolves,Chelsea,2,1,Molineux Stadium
+1035362,2023-12-26T12:30:00+00:00,2023,Newcastle,Nottingham Forest,1,3,St. James' Park
+1035354,2023-12-26T15:00:00+00:00,2023,Bournemouth,Fulham,3,0,Vitality Stadium
+1035363,2023-12-26T15:00:00+00:00,2023,Sheffield Utd,Luton,2,3,Bramall Lane
+1035358,2023-12-26T17:30:00+00:00,2023,Burnley,Liverpool,0,2,Turf Moor
+1035361,2023-12-26T20:00:00+00:00,2023,Manchester United,Aston Villa,3,2,Old Trafford
+1035359,2023-12-27T19:30:00+00:00,2023,Chelsea,Crystal Palace,2,1,Stamford Bridge
+1035356,2023-12-27T19:30:00+00:00,2023,Brentford,Wolves,1,4,Gtech Community Stadium
+1035360,2023-12-27T20:15:00+00:00,2023,Everton,Manchester City,1,3,Goodison Park
+1035357,2023-12-28T19:30:00+00:00,2023,Brighton,Tottenham,4,2,American Express Stadium
+1035355,2023-12-28T20:15:00+00:00,2023,Arsenal,West Ham,0,2,Emirates Stadium
+1035368,2023-12-30T12:30:00+00:00,2023,Luton,Chelsea,2,3,Kenilworth Road
+1035373,2023-12-30T15:00:00+00:00,2023,Wolves,Everton,3,0,Molineux Stadium
+1035369,2023-12-30T15:00:00+00:00,2023,Manchester City,Sheffield Utd,2,0,Etihad Stadium
+1035365,2023-12-30T15:00:00+00:00,2023,Crystal Palace,Brentford,3,1,Selhurst Park
+1035364,2023-12-30T15:00:00+00:00,2023,Aston Villa,Burnley,3,2,Villa Park
+1035370,2023-12-30T17:30:00+00:00,2023,Nottingham Forest,Manchester United,2,1,The City Ground
+1035366,2023-12-31T14:00:00+00:00,2023,Fulham,Arsenal,2,1,Craven Cottage
+1035371,2023-12-31T14:00:00+00:00,2023,Tottenham,Bournemouth,3,1,Tottenham Hotspur Stadium
+1035367,2024-01-01T20:00:00+00:00,2023,Liverpool,Newcastle,4,2,Anfield
+1035372,2024-01-02T19:30:00+00:00,2023,West Ham,Brighton,0,0,London Stadium
+1035378,2024-01-12T19:45:00+00:00,2023,Burnley,Luton,1,1,Turf Moor
+1035379,2024-01-13T12:30:00+00:00,2023,Chelsea,Fulham,1,0,Stamford Bridge
+1035382,2024-01-13T17:30:00+00:00,2023,Newcastle,Manchester City,2,3,St. James' Park
+1035380,2024-01-14T14:00:00+00:00,2023,Everton,Aston Villa,0,0,Goodison Park
+1035381,2024-01-14T16:30:00+00:00,2023,Manchester United,Tottenham,2,2,Old Trafford
+1035375,2024-01-20T12:30:00+00:00,2023,Arsenal,Crystal Palace,5,0,Emirates Stadium
+1035376,2024-01-20T17:30:00+00:00,2023,Brentford,Nottingham Forest,3,2,Gtech Community Stadium
+1035383,2024-01-21T14:00:00+00:00,2023,Sheffield Utd,West Ham,2,2,Bramall Lane
+1035374,2024-01-21T16:30:00+00:00,2023,Bournemouth,Liverpool,0,4,Vitality Stadium
+1035377,2024-01-22T19:45:00+00:00,2023,Brighton,Wolves,0,0,American Express Stadium
+1035387,2024-01-30T19:30:00+00:00,2023,Nottingham Forest,Arsenal,1,2,The City Ground
+1035385,2024-01-30T19:45:00+00:00,2023,Fulham,Everton,0,0,Craven Cottage
+1035386,2024-01-30T19:45:00+00:00,2023,Luton,Brighton,4,0,Kenilworth Road
+1035391,2024-01-30T20:00:00+00:00,2023,Crystal Palace,Sheffield Utd,3,2,Selhurst Park
+1035384,2024-01-30T20:15:00+00:00,2023,Aston Villa,Newcastle,1,3,Villa Park
+1035388,2024-01-31T19:30:00+00:00,2023,Tottenham,Brentford,3,2,Tottenham Hotspur Stadium
+1035393,2024-01-31T19:30:00+00:00,2023,Manchester City,Burnley,3,1,Etihad Stadium
+1035392,2024-01-31T20:15:00+00:00,2023,Liverpool,Chelsea,4,1,Anfield
+1035389,2024-02-01T19:30:00+00:00,2023,West Ham,Bournemouth,1,1,London Stadium
+1035390,2024-02-01T20:15:00+00:00,2023,Wolves,Manchester United,3,4,Molineux Stadium
+1035400,2024-02-03T12:30:00+00:00,2023,Everton,Tottenham,2,2,Goodison Park
+1035402,2024-02-03T15:00:00+00:00,2023,Newcastle,Luton,4,4,St. James' Park
+1035398,2024-02-03T15:00:00+00:00,2023,Burnley,Fulham,2,2,Turf Moor
+1035397,2024-02-03T15:00:00+00:00,2023,Brighton,Crystal Palace,4,1,American Express Stadium
+1035403,2024-02-03T17:30:00+00:00,2023,Sheffield Utd,Aston Villa,0,5,Bramall Lane
+1035401,2024-02-04T14:00:00+00:00,2023,Manchester United,West Ham,3,0,Old Trafford
+1035394,2024-02-04T14:00:00+00:00,2023,Bournemouth,Nottingham Forest,1,1,Vitality Stadium
+1035399,2024-02-04T14:00:00+00:00,2023,Chelsea,Wolves,2,4,Stamford Bridge
+1035395,2024-02-04T16:30:00+00:00,2023,Arsenal,Liverpool,3,1,Emirates Stadium
+1035396,2024-02-05T20:00:00+00:00,2023,Brentford,Manchester City,1,3,Gtech Community Stadium
+1035409,2024-02-10T12:30:00+00:00,2023,Manchester City,Everton,2,0,Etihad Stadium
+1035406,2024-02-10T15:00:00+00:00,2023,Fulham,Bournemouth,3,1,Craven Cottage
+1035413,2024-02-10T15:00:00+00:00,2023,Wolves,Brentford,0,2,Molineux Stadium
+1035407,2024-02-10T15:00:00+00:00,2023,Liverpool,Burnley,3,1,Anfield
+1035411,2024-02-10T15:00:00+00:00,2023,Tottenham,Brighton,2,1,Tottenham Hotspur Stadium
+1035408,2024-02-10T15:00:00+00:00,2023,Luton,Sheffield Utd,1,3,Kenilworth Road
+1035410,2024-02-10T17:30:00+00:00,2023,Nottingham Forest,Newcastle,2,3,The City Ground
+1035412,2024-02-11T14:00:00+00:00,2023,West Ham,Arsenal,0,6,London Stadium
+1035404,2024-02-11T16:30:00+00:00,2023,Aston Villa,Manchester United,1,2,Villa Park
+1035405,2024-02-12T20:00:00+00:00,2023,Crystal Palace,Chelsea,1,3,Selhurst Park
+1035414,2024-02-17T12:30:00+00:00,2023,Brentford,Liverpool,1,4,Gtech Community Stadium
+1035420,2024-02-17T15:00:00+00:00,2023,Newcastle,Bournemouth,2,2,St. James' Park
+1035417,2024-02-17T15:00:00+00:00,2023,Fulham,Aston Villa,1,2,Craven Cottage
+1035415,2024-02-17T15:00:00+00:00,2023,Burnley,Arsenal,0,5,Turf Moor
+1035423,2024-02-17T15:00:00+00:00,2023,Tottenham,Wolves,1,2,Tottenham Hotspur Stadium
+1035421,2024-02-17T15:00:00+00:00,2023,Nottingham Forest,West Ham,2,0,The City Ground
+1035419,2024-02-17T17:30:00+00:00,2023,Manchester City,Chelsea,1,1,Etihad Stadium
+1035422,2024-02-18T14:00:00+00:00,2023,Sheffield Utd,Brighton,0,5,Bramall Lane
+1035418,2024-02-18T16:30:00+00:00,2023,Luton,Manchester United,1,2,Kenilworth Road
+1035416,2024-02-19T20:00:00+00:00,2023,Everton,Crystal Palace,1,1,Goodison Park
+1035349,2024-02-20T19:30:00+00:00,2023,Manchester City,Brentford,1,0,Etihad Stadium
+1035430,2024-02-21T19:30:00+00:00,2023,Liverpool,Luton,4,1,Anfield
+1035431,2024-02-24T15:00:00+00:00,2023,Manchester United,Fulham,1,2,Old Trafford
+1035427,2024-02-24T15:00:00+00:00,2023,Brighton,Everton,1,1,American Express Stadium
+1035429,2024-02-24T15:00:00+00:00,2023,Crystal Palace,Burnley,3,0,Selhurst Park
+1035426,2024-02-24T15:00:00+00:00,2023,Aston Villa,Nottingham Forest,4,2,Villa Park
+1035424,2024-02-24T17:30:00+00:00,2023,Bournemouth,Manchester City,0,1,Vitality Stadium
+1035425,2024-02-24T20:00:00+00:00,2023,Arsenal,Newcastle,4,1,Emirates Stadium
+1035433,2024-02-25T13:30:00+00:00,2023,Wolves,Sheffield Utd,1,0,Molineux Stadium
+1035432,2024-02-26T20:00:00+00:00,2023,West Ham,Brentford,4,2,London Stadium
+1035440,2024-03-02T15:00:00+00:00,2023,Newcastle,Wolves,3,0,St. James' Park
+1035437,2024-03-02T15:00:00+00:00,2023,Fulham,Brighton,3,0,Craven Cottage
+1035436,2024-03-02T15:00:00+00:00,2023,Everton,West Ham,1,3,Goodison Park
+1035443,2024-03-02T15:00:00+00:00,2023,Tottenham,Crystal Palace,3,1,Tottenham Hotspur Stadium
+1035434,2024-03-02T15:00:00+00:00,2023,Brentford,Chelsea,2,2,Gtech Community Stadium
+1035441,2024-03-02T15:00:00+00:00,2023,Nottingham Forest,Liverpool,0,1,The City Ground
+1035438,2024-03-02T17:30:00+00:00,2023,Luton,Aston Villa,2,3,Kenilworth Road
+1035435,2024-03-03T13:00:00+00:00,2023,Burnley,Bournemouth,0,2,Turf Moor
+1035439,2024-03-03T15:30:00+00:00,2023,Manchester City,Manchester United,3,1,Etihad Stadium
+1035442,2024-03-04T20:00:00+00:00,2023,Sheffield Utd,Arsenal,0,6,Bramall Lane
+1035451,2024-03-09T12:30:00+00:00,2023,Manchester United,Everton,2,0,Old Trafford
+1035444,2024-03-09T15:00:00+00:00,2023,Bournemouth,Sheffield Utd,2,2,Vitality Stadium
+1035453,2024-03-09T15:00:00+00:00,2023,Wolves,Fulham,2,1,Molineux Stadium
+1035449,2024-03-09T15:00:00+00:00,2023,Crystal Palace,Luton,1,1,Selhurst Park
+1035445,2024-03-09T17:30:00+00:00,2023,Arsenal,Brentford,2,1,Emirates Stadium
+1035446,2024-03-10T13:00:00+00:00,2023,Aston Villa,Tottenham,0,4,Villa Park
+1035452,2024-03-10T14:00:00+00:00,2023,West Ham,Burnley,2,2,London Stadium
+1035447,2024-03-10T14:00:00+00:00,2023,Brighton,Nottingham Forest,1,0,American Express Stadium
+1035450,2024-03-10T15:45:00+00:00,2023,Liverpool,Manchester City,1,1,Anfield
+1035448,2024-03-11T20:00:00+00:00,2023,Chelsea,Newcastle,3,2,Stamford Bridge
+1035334,2024-03-13T19:30:00+00:00,2023,Bournemouth,Luton,4,3,Vitality Stadium
+1035456,2024-03-16T15:00:00+00:00,2023,Burnley,Brentford,2,1,Turf Moor
+1035460,2024-03-16T15:00:00+00:00,2023,Luton,Nottingham Forest,1,1,Kenilworth Road
+1035459,2024-03-16T17:30:00+00:00,2023,Fulham,Tottenham,3,0,Craven Cottage
+1035462,2024-03-17T14:00:00+00:00,2023,West Ham,Aston Villa,1,1,London Stadium
+1035470,2024-03-30T12:30:00+00:00,2023,Newcastle,West Ham,4,3,St. James' Park
+1035464,2024-03-30T15:00:00+00:00,2023,Bournemouth,Everton,2,1,Vitality Stadium
+1035473,2024-03-30T15:00:00+00:00,2023,Tottenham,Luton,2,1,Tottenham Hotspur Stadium
+1035467,2024-03-30T15:00:00+00:00,2023,Chelsea,Burnley,2,2,Stamford Bridge
+1035472,2024-03-30T15:00:00+00:00,2023,Sheffield Utd,Fulham,3,3,Bramall Lane
+1035471,2024-03-30T15:00:00+00:00,2023,Nottingham Forest,Crystal Palace,1,1,The City Ground
+1035465,2024-03-30T17:30:00+00:00,2023,Aston Villa,Wolves,2,0,Villa Park
+1035466,2024-03-30T20:00:00+00:00,2023,Brentford,Manchester United,1,1,Gtech Community Stadium
+1035468,2024-03-31T13:00:00+00:00,2023,Liverpool,Brighton,2,1,Anfield
+1035469,2024-03-31T15:30:00+00:00,2023,Manchester City,Arsenal,0,0,Etihad Stadium
+1035481,2024-04-02T18:30:00+00:00,2023,Newcastle,Everton,1,1,St. James' Park
+1035478,2024-04-02T18:30:00+00:00,2023,Nottingham Forest,Fulham,3,1,The City Ground
+1035474,2024-04-02T18:45:00+00:00,2023,Bournemouth,Crystal Palace,1,0,Vitality Stadium
+1035477,2024-04-02T18:45:00+00:00,2023,Burnley,Wolves,1,1,Turf Moor
+1035479,2024-04-02T19:15:00+00:00,2023,West Ham,Tottenham,1,1,London Stadium
+1035475,2024-04-03T18:30:00+00:00,2023,Arsenal,Luton,2,0,Emirates Stadium
+1035476,2024-04-03T18:30:00+00:00,2023,Brentford,Brighton,0,0,Gtech Community Stadium
+1035483,2024-04-03T19:15:00+00:00,2023,Manchester City,Aston Villa,4,1,Etihad Stadium
+1035482,2024-04-04T18:30:00+00:00,2023,Liverpool,Sheffield Utd,3,1,Anfield
+1035480,2024-04-04T19:15:00+00:00,2023,Chelsea,Manchester United,4,3,Stamford Bridge
+1035486,2024-04-06T11:30:00+00:00,2023,Crystal Palace,Manchester City,2,4,Selhurst Park
+1035488,2024-04-06T14:00:00+00:00,2023,Fulham,Newcastle,0,1,Craven Cottage
+1035493,2024-04-06T14:00:00+00:00,2023,Wolves,West Ham,1,2,Molineux Stadium
+1035487,2024-04-06T14:00:00+00:00,2023,Everton,Burnley,1,0,Goodison Park
+1035484,2024-04-06T14:00:00+00:00,2023,Aston Villa,Brentford,3,3,Villa Park
+1035489,2024-04-06T14:00:00+00:00,2023,Luton,Bournemouth,2,1,Kenilworth Road
+1035485,2024-04-06T16:30:00+00:00,2023,Brighton,Arsenal,0,3,American Express Stadium
+1035490,2024-04-07T14:30:00+00:00,2023,Manchester United,Liverpool,2,2,Old Trafford
+1035491,2024-04-07T16:30:00+00:00,2023,Sheffield Utd,Chelsea,2,2,Bramall Lane
+1035492,2024-04-07T17:00:00+00:00,2023,Tottenham,Nottingham Forest,3,1,Tottenham Hotspur Stadium
+1035501,2024-04-13T11:30:00+00:00,2023,Newcastle,Tottenham,4,0,St. James' Park
+1035497,2024-04-13T14:00:00+00:00,2023,Burnley,Brighton,1,1,Turf Moor
+1035500,2024-04-13T14:00:00+00:00,2023,Manchester City,Luton,5,1,Etihad Stadium
+1035496,2024-04-13T14:00:00+00:00,2023,Brentford,Sheffield Utd,2,0,Gtech Community Stadium
+1035502,2024-04-13T14:00:00+00:00,2023,Nottingham Forest,Wolves,2,2,The City Ground
+1035494,2024-04-13T16:30:00+00:00,2023,Bournemouth,Manchester United,2,2,Vitality Stadium
+1035499,2024-04-14T13:00:00+00:00,2023,Liverpool,Crystal Palace,0,1,Anfield
+1035503,2024-04-14T13:00:00+00:00,2023,West Ham,Fulham,0,2,London Stadium
+1035495,2024-04-14T15:30:00+00:00,2023,Arsenal,Aston Villa,0,2,Emirates Stadium
+1035498,2024-04-15T19:00:00+00:00,2023,Chelsea,Everton,6,0,Stamford Bridge
+1035511,2024-04-20T14:00:00+00:00,2023,Sheffield Utd,Burnley,1,4,Bramall Lane
+1035509,2024-04-20T14:00:00+00:00,2023,Luton,Brentford,1,5,Kenilworth Road
+1035513,2024-04-20T18:30:00+00:00,2023,Wolves,Arsenal,0,2,Molineux Stadium
+1035507,2024-04-21T12:30:00+00:00,2023,Everton,Nottingham Forest,2,0,Goodison Park
+1035506,2024-04-21T14:00:00+00:00,2023,Crystal Palace,West Ham,5,2,Selhurst Park
+1035504,2024-04-21T14:00:00+00:00,2023,Aston Villa,Bournemouth,3,1,Villa Park
+1035508,2024-04-21T15:30:00+00:00,2023,Fulham,Liverpool,1,3,Craven Cottage
+1035454,2024-04-23T19:00:00+00:00,2023,Arsenal,Chelsea,5,0,Emirates Stadium
+1035463,2024-04-24T18:45:00+00:00,2023,Wolves,Bournemouth,0,1,Molineux Stadium
+1035461,2024-04-24T19:00:00+00:00,2023,Manchester United,Sheffield Utd,4,2,Old Trafford
+1035458,2024-04-24T19:00:00+00:00,2023,Everton,Liverpool,2,0,Goodison Park
+1035457,2024-04-24T19:00:00+00:00,2023,Crystal Palace,Newcastle,2,0,Selhurst Park
+1035455,2024-04-25T19:00:00+00:00,2023,Brighton,Manchester City,0,4,American Express Stadium
+1035522,2024-04-27T11:30:00+00:00,2023,West Ham,Liverpool,2,2,London Stadium
+1035518,2024-04-27T14:00:00+00:00,2023,Manchester United,Burnley,1,1,Old Trafford
+1035519,2024-04-27T14:00:00+00:00,2023,Newcastle,Sheffield Utd,5,1,St. James' Park
+1035517,2024-04-27T14:00:00+00:00,2023,Fulham,Crystal Palace,1,1,Craven Cottage
+1035523,2024-04-27T14:00:00+00:00,2023,Wolves,Luton,2,1,Molineux Stadium
+1035516,2024-04-27T16:30:00+00:00,2023,Everton,Brentford,1,0,Goodison Park
+1035515,2024-04-27T19:00:00+00:00,2023,Aston Villa,Chelsea,2,2,Villa Park
+1035514,2024-04-28T13:00:00+00:00,2023,Bournemouth,Brighton,3,0,Vitality Stadium
+1035521,2024-04-28T13:00:00+00:00,2023,Tottenham,Arsenal,2,3,Tottenham Hotspur Stadium
+1035520,2024-04-28T15:30:00+00:00,2023,Nottingham Forest,Manchester City,0,2,The City Ground
+1035428,2024-05-02T18:30:00+00:00,2023,Chelsea,Tottenham,2,0,Stamford Bridge
+1035531,2024-05-03T19:00:00+00:00,2023,Luton,Everton,1,1,Kenilworth Road
+1035524,2024-05-04T11:30:00+00:00,2023,Arsenal,Bournemouth,3,0,Emirates Stadium
+1035527,2024-05-04T14:00:00+00:00,2023,Burnley,Newcastle,1,4,Turf Moor
+1035525,2024-05-04T14:00:00+00:00,2023,Brentford,Fulham,0,0,Gtech Community Stadium
+1035533,2024-05-04T14:00:00+00:00,2023,Sheffield Utd,Nottingham Forest,1,3,Bramall Lane
+1035532,2024-05-04T16:30:00+00:00,2023,Manchester City,Wolves,5,1,Etihad Stadium
+1035528,2024-05-05T13:00:00+00:00,2023,Chelsea,West Ham,5,0,Stamford Bridge
+1035526,2024-05-05T13:00:00+00:00,2023,Brighton,Aston Villa,1,0,American Express Stadium
+1035530,2024-05-05T15:30:00+00:00,2023,Liverpool,Tottenham,4,2,Anfield
+1035529,2024-05-06T19:00:00+00:00,2023,Crystal Palace,Manchester United,4,0,Selhurst Park
+1035537,2024-05-11T11:30:00+00:00,2023,Fulham,Manchester City,0,4,Craven Cottage
+1035539,2024-05-11T14:00:00+00:00,2023,Newcastle,Brighton,1,1,St. James' Park
+1035534,2024-05-11T14:00:00+00:00,2023,Bournemouth,Brentford,1,2,Vitality Stadium
+1035543,2024-05-11T14:00:00+00:00,2023,Wolves,Crystal Palace,1,3,Molineux Stadium
+1035536,2024-05-11T14:00:00+00:00,2023,Everton,Sheffield Utd,1,0,Goodison Park
+1035541,2024-05-11T14:00:00+00:00,2023,Tottenham,Burnley,2,1,Tottenham Hotspur Stadium
+1035542,2024-05-11T14:00:00+00:00,2023,West Ham,Luton,3,1,London Stadium
+1035540,2024-05-11T16:30:00+00:00,2023,Nottingham Forest,Chelsea,2,3,The City Ground
+1035538,2024-05-12T15:30:00+00:00,2023,Manchester United,Arsenal,0,1,Old Trafford
+1035535,2024-05-13T19:00:00+00:00,2023,Aston Villa,Liverpool,3,3,Villa Park
+1035512,2024-05-14T19:00:00+00:00,2023,Tottenham,Manchester City,0,2,Tottenham Hotspur Stadium
+1035505,2024-05-15T18:45:00+00:00,2023,Brighton,Chelsea,1,2,American Express Stadium
+1035510,2024-05-15T19:00:00+00:00,2023,Manchester United,Newcastle,3,2,Old Trafford
+1035550,2024-05-19T15:00:00+00:00,2023,Liverpool,Wolves,2,0,Anfield
+1035544,2024-05-19T15:00:00+00:00,2023,Arsenal,Everton,2,1,Emirates Stadium
+1035547,2024-05-19T15:00:00+00:00,2023,Burnley,Nottingham Forest,1,2,Turf Moor
+1035548,2024-05-19T15:00:00+00:00,2023,Chelsea,Bournemouth,2,1,Stamford Bridge
+1035552,2024-05-19T15:00:00+00:00,2023,Manchester City,West Ham,3,1,Etihad Stadium
+1035546,2024-05-19T15:00:00+00:00,2023,Brighton,Manchester United,0,2,American Express Stadium
+1035549,2024-05-19T15:00:00+00:00,2023,Crystal Palace,Aston Villa,5,0,Selhurst Park
+1035545,2024-05-19T15:00:00+00:00,2023,Brentford,Newcastle,2,4,Gtech Community Stadium
+1035553,2024-05-19T15:00:00+00:00,2023,Sheffield Utd,Tottenham,0,3,Bramall Lane
+1035551,2024-05-19T15:00:00+00:00,2023,Luton,Fulham,2,4,Kenilworth Road
