@@ -4,9 +4,7 @@ import requests
 import pandas as pd
 from dotenv import load_dotenv
 
-# --------------------------------------------------
-# Setup
-# --------------------------------------------------
+
 load_dotenv()
 
 API_KEY = os.getenv("API_FOOTBALL_KEY")
@@ -17,11 +15,9 @@ BASE_URL = "https://v3.football.api-sports.io"
 HEADERS = {"x-apisports-key": API_KEY}
 
 LEAGUE_ID = 39  # Premier League
-SEASONS = [2021, 2022, 2023]
+SEASONS = [2022, 2023, 2024]
 
-# --------------------------------------------------
-# API Functions
-# --------------------------------------------------
+
 def fetch_fixtures(season: int) -> list:
     r = requests.get(
         f"{BASE_URL}/fixtures",
@@ -60,9 +56,6 @@ def parse_statistics(stats_response: list, fixture_id: int) -> dict:
     return row
 
 
-# --------------------------------------------------
-# Fetch Fixtures
-# --------------------------------------------------
 matches = []
 
 for season in SEASONS:
@@ -88,9 +81,7 @@ print(f"Total matches fetched: {len(matches)}")
 
 df_matches = pd.DataFrame(matches)
 
-# --------------------------------------------------
-# Fetch Statistics
-# --------------------------------------------------
+
 stats_rows = []
 
 for i, fixture_id in enumerate(df_matches["fixture_id"], start=1):
@@ -104,9 +95,7 @@ for i, fixture_id in enumerate(df_matches["fixture_id"], start=1):
 
 df_stats = pd.DataFrame(stats_rows)
 
-# --------------------------------------------------
-# Merge & Save
-# --------------------------------------------------
+
 df_full = df_matches.merge(df_stats, on="fixture_id", how="left")
 
 os.makedirs("data/raw", exist_ok=True)

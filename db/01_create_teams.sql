@@ -1,0 +1,5 @@
+
+CREATE TABLE IF NOT EXISTS teams (
+    team_id SERIAL PRIMARY KEY,
+    team_name TEXT UNIQUE NOT NULL
+);
